@@ -227,6 +227,14 @@
     .hero__visual {
       display: flex; align-items: center; justify-content: center; position: relative;
     }
+    .hero__banner {
+      width: 100%; max-width: 500px; border-radius: var(--radius-lg);
+      overflow: hidden; border: 1px solid var(--clr-border);
+      box-shadow: 0 20px 60px rgba(224,64,251,0.15);
+    }
+    .hero__banner img {
+      width: 100%; height: auto; display: block;
+    }
     .hero__card-mockup {
       width: 100%; max-width: 400px; background: var(--clr-surface);
       border: 1px solid var(--clr-border); border-radius: var(--radius-xl);
@@ -323,21 +331,28 @@
     .how__step-desc { font-size: 0.9rem; color: var(--clr-text-muted); line-height: 1.65; }
     .how__cta-wrap { text-align: center; }
 
-    /* ─── SHOWCASE ───────────────────────────────────────────────── */
+    /* ─── SHOWCASE ─────────────────────────────────────────────────── */
     .showcase__grid {
-      display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-      gap: 24px;
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 28px;
     }
     .showcase-card {
       background: var(--gradient-card); border: 1px solid var(--clr-border);
       border-radius: var(--radius-lg); overflow: hidden;
-      transition: all var(--transition);
+      transition: transform var(--transition), box-shadow var(--transition);
     }
-    .showcase-card:hover { transform: translateY(-6px); box-shadow: var(--shadow-glow); border-color: rgba(224,64,251,0.3); }
+    .showcase-card:hover { transform: translateY(-6px); box-shadow: 0 20px 40px rgba(0,0,0,0.35); }
     .showcase-card__image {
-      aspect-ratio: 3/4; background: linear-gradient(145deg, #1e003a, #3a0020);
-      display: flex; align-items: center; justify-content: center;
-      font-size: 4rem; position: relative; overflow: hidden;
+      aspect-ratio: 1; background: linear-gradient(135deg, rgba(224,64,251,0.2), rgba(255,64,129,0.1));
+      display: flex; align-items: center; justify-content: center; font-size: 3rem;
+      overflow: hidden; border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+    }
+    .showcase-card__image img {
+      width: 100%; height: 100%; object-fit: cover;
+      transition: transform 0.4s ease;
+    }
+    .showcase-card:hover .showcase-card__image img {
+      transform: scale(1.05);
     }
     .showcase-card__image::after {
       content: ''; position: absolute; bottom: 0; left: 0; right: 0; height: 60%;
@@ -589,23 +604,8 @@
         </div>
 
         <div class="hero__visual" aria-hidden="true">
-          <div class="hero__card-mockup">
-            <div class="hero__avatar-placeholder">
-              <span style="position:relative;z-index:2;">💋</span>
-            </div>
-            <div class="hero__card-status">
-              <span class="hero__online-dot"></span>
-              <span data-i18n="hero.card_status"></span>
-            </div>
-            <div class="hero__card-name" data-i18n="hero.card_name"></div>
-            <div class="hero__card-type" data-i18n="hero.card_type"></div>
-            <div class="hero__card-tags">
-              <span class="hero__card-tag" data-i18n="hero.card_tag1"></span>
-              <span class="hero__card-tag" data-i18n="hero.card_tag2"></span>
-              <span class="hero__card-tag" data-i18n="hero.card_tag3"></span>
-            </div>
-            <br/>
-            <a href="https://darlink.ai/create" class="btn btn--primary hero__card-cta" data-i18n="hero.card_cta"></a>
+          <div class="hero__banner">
+            <img src="images/image_banner.webp" alt="AI Girlfriend Banner" loading="eager" />
           </div>
         </div>
 
@@ -723,7 +723,9 @@
       <div class="showcase__grid">
 
         <article class="showcase-card">
-          <div class="showcase-card__image"><span class="showcase-card__image-emoji">🌸</span></div>
+          <div class="showcase-card__image">
+            <img src="images/anime_ai_girlfriend.webp" alt="Sakura - Anime AI Girlfriend" loading="lazy" />
+          </div>
           <div class="showcase-card__body">
             <div class="showcase-card__name" data-i18n="showcase.p1.name"></div>
             <div class="showcase-card__type" data-i18n="showcase.p1.type"></div>
@@ -737,7 +739,9 @@
         </article>
 
         <article class="showcase-card">
-          <div class="showcase-card__image"><span class="showcase-card__image-emoji">⚔️</span></div>
+          <div class="showcase-card__image">
+            <img src="images/fantasy_ai_girlfriend.webp" alt="Valeria - Fantasy AI Girlfriend" loading="lazy" />
+          </div>
           <div class="showcase-card__body">
             <div class="showcase-card__name" data-i18n="showcase.p2.name"></div>
             <div class="showcase-card__type" data-i18n="showcase.p2.type"></div>
@@ -751,7 +755,9 @@
         </article>
 
         <article class="showcase-card">
-          <div class="showcase-card__image"><span class="showcase-card__image-emoji">🌙</span></div>
+          <div class="showcase-card__image">
+            <img src="images/realistic_ai_girlfriend.webp" alt="Luna - Realistic AI Girlfriend" loading="lazy" />
+          </div>
           <div class="showcase-card__body">
             <div class="showcase-card__name" data-i18n="showcase.p3.name"></div>
             <div class="showcase-card__type" data-i18n="showcase.p3.type"></div>
@@ -765,7 +771,9 @@
         </article>
 
         <article class="showcase-card">
-          <div class="showcase-card__image"><span class="showcase-card__image-emoji">🔥</span></div>
+          <div class="showcase-card__image">
+            <img src="images/exotic_ai_girlfriend.webp" alt="Zara - Exotic AI Girlfriend" loading="lazy" />
+          </div>
           <div class="showcase-card__body">
             <div class="showcase-card__name" data-i18n="showcase.p4.name"></div>
             <div class="showcase-card__type" data-i18n="showcase.p4.type"></div>

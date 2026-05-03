@@ -1,2 +1,9 @@
 # Cloudflare Pages Redirects - Affiliate Link Cloaking
+# DarLink (main product)
 /go/darlink https://darlink.ai?fpr=anto98 302
+
+# Competitor affiliate links (from Cluster 2 sheet)
+/go/lusychat https://lusychat.ai/?ref=GAUTVLZA 302
+/go/ehentai https://sdg22.com/@6LayrIxr?cmp=ehantai 302
+/go/justporn https://sdg22.com/@swI4YvKq?cmp=justpornai 302
+/go/mylovely https://www.mylovely.ai/?ref=antonin 302

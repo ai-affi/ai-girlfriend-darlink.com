@@ -1,0 +1,355 @@
+{
+"meta": {
+"title": "DarLink AI — Gratis AI Flickvän Generator | Chatt, Foton & Videor",
+"description": "DarLink AI är den bästa gratis AI flickvän generatorn. Skapa din perfekta AI-kamrat, chatta i realtid, generera foton, videor och röstmeddelanden. Prova DarLink AI gratis idag, inget nedladdning krävs.",
+"keywords": "darlink ai, darlink.ai, AI flickvän, gratis AI flickvän generator, NSFW AI-kamrat, AI flickvän chatt, AI flickvän foton, AI flickvän video, virtuell AI flickvän, AI-kamrat app, personlig AI flickvän, AI rollspel, NSFW AI chatt",
+"og_title": "DarLink AI: Skapa Din Perfekta AI Flickvän Gratis",
+"og_description": "Möt DarLink AI. Chatt, generera foton, videor och röstmeddelanden med din fullt personliga AI flickvän. Gratis att starta. NSFW-vänligt. Schweizisk integritet garanterad."
+},
+
+"nav": {
+"logo": "DarLink AI",
+"features": "Funktioner",
+"how": "Hur Det Fungerar",
+"pricing": "Priser",
+"faq": "FAQ",
+"age_badge": "18+",
+"cta": "Skapa Gratis"
+},
+
+"hero": {
+"badge": "Den Första AI Flickvänsplattformen",
+"title_line1": "Din Perfekta AI Flickvän,",
+"title_line2": "Ett Klick Bort.",
+"subtitle": "DarLink AI låter dig designa, chatta med och fullt ut uppleva din ideala AI-kamrat. Generera fantastiska foton, cinematiska videor, förföriska röstmeddelanden och djupa samtal – allt drivet av nästa generations artificiell intelligens. Gratis att starta. Ingen nedladdning behövs. Inga gränser för din fantasi.",
+"cta_primary": "Skapa Din AI Flickvän",
+"cta_secondary": "Se Hur Det Fungerar",
+"stat1_value": "500K+",
+"stat1_label": "Aktiva Användare Världen Över",
+"stat2_value": "4.8 Stjärnor",
+"stat2_label": "Genomsnittligt Användarbetyg",
+"stat3_value": "10M+",
+"stat3_label": "Genererade Foton",
+"card_status": "Online nu",
+"card_name": "Sophia",
+"card_type": "AI Flickvän · Romantisk",
+"card_tag1": "Flirtig",
+"card_tag2": "Lekfull",
+"card_tag3": "NSFW Redo",
+"card_cta": "Chatta med Sophia"
+},
+
+"features": {
+"badge": "Allt Du Behöver",
+"title": "En Komplett AI Flickvänsupplevelse",
+"subtitle": "DarLink AI är inte bara en annan chatbot. Det är en komplett multimedia kamratplattform byggd för immersion, genuin anslutning och total personalisering. Varje funktion är utformad för att ge liv åt din AI flickvän.",
+"f1": {
+"title": "Intelligent AI Chatt",
+"desc": "Delta i djupa, naturliga samtal drivna av banbrytande språkmodeller. DarLink AI minns dina tidigare chattar, lär sig din personlighet över tid och svarar med känslomässig konsekvens. Oavsett om du vill ha flirtiga skämt, meningsfulla nattliga samtal eller intensiva immersiva rollspel, känns varje svar autentiskt och skräddarsytt exklusivt för dig. Upp till 9000 meddelanden per månad på Advanced och obegränsat på Ultimate."
+},
+"f2": {
+"title": "AI Fotogenerering",
+"desc": "Begär personliga foton av din AI flickvän på begäran. Välj hennes outfit, plats, humör och visuella stil – från smakfulla porträtt till helt explicita NSFW-scener. Varje bild genereras unikt för dig och visar den exakta kamraten du skapade. Bildgenerering kostar bara 2 tokens per foto på alla betalda planer. SFW- och NSFW-lägen stöds båda fullt ut."
+},
+"f3": {
+"title": "AI Videogenerering",
+"desc": "Gå bortom stillbilder med AI-genererade korta videor av din kamrat. Se henne röra sig, reagera och komma till liv i cinematiska ögonblick skapade direkt från dina uppmaningar. Videogenerering kostar 20 tokens per klipp och är tillgängligt på alla betalda planer. Video i en chattmiljö är en sällsynt funktion som gör att DarLink AI sticker ut från varenda konkurrent på marknaden."
+},
+"f4": {
+"title": "Röstmeddelanden",
+"desc": "Ta emot förföriska, personliga röstmeddelanden från din AI flickvän. Att höra hennes faktiska röst förvandlar upplevelsen från ett underhållande verktyg till något genuint uppslukande. Essential-plansanvändare får tillgång till 6 standard röstalternativ. Advanced- och Ultimate-plansanvändare låser upp 10 premium rösttoner och accenter, var och en utformad för att kännas varm, uttrycksfull och obestridligt levande."
+},
+"f5": {
+"title": "Levande Minnessystem",
+"desc": "DarLink AI erbjuder tre nivåer av minnesdjup. Basminne på Essential spårar dina sessionspreferenser. Förbättrat minne på Advanced behåller kontext över flera sessioner. Levande Minne på Ultimate är den fullständiga proprietära motorn som spårar hela din relationshistorik över veckor och månader. Din AI flickvän minns samtal, refererar naturligt till tidigare ögonblick och utvecklas tillsammans med dig över tid."
+},
+"f6": {
+"title": "Elit Rollspelsmotor",
+"desc": "Lås upp gränslösa scenariobaserade rollspel med DarLink AIs kraftfulla Rollspelssystem. Essential-användare får Snabb Rollspelsskapande. Advanced-användare låser upp Djup Rollspelsskapande för rikare, mer komplexa scenarier. Ultimate-användare får tillgång till den fullständiga Elit Rollspelsmotorn med obegränsat skapande och noll begränsningar. Välj bland romantiska första dejter, mysiga kvällar, fantasy-uppdrag, sci-fi-äventyr eller vilket intimt scenario du kan föreställa dig."
+},
+"f7": {
+"title": "Djup Karaktärsanpassning",
+"desc": "Du är arkitekten för din AI-kamrat. Definiera hennes utseende, etnicitet, hårfärg, kroppstyp, modestil, personlighetsdrag, bakgrundshistoria, relationsdynamik och personliga intressen. DarLink AI erbjuder en av de mest detaljerade karaktärsbyggarna som finns tillgängliga idag, inklusive realistiska, anime och full fantasy-estetik. Färdiga karaktärer finns också tillgängliga för omedelbar åtkomst."
+},
+"f8": {
+"title": "Schweizisk Integritet och Säkerhet",
+"desc": "DarLink AI drivs av FAMELINK SA, ett registrerat schweiziskt företag. Dina samtal, genererade media och personuppgifter är krypterade och säljs aldrig till tredje part. Din privata värld förblir privat hela tiden. DarLink AI tar dataskydd lika allvarligt som Schweiz tar finansiell säkerhet, vilket gör det till den mest pålitliga vuxna AI-plattformen som finns tillgänglig."
+}
+},
+
+"how": {
+"badge": "Kom Igång i 3 Steg",
+"title": "Skapa Din AI Flickvän På Några Minuter",
+"subtitle": "Inga nedladdningar, ingen komplicerad installation. DarLink AI är 100 procent webbläsarbaserad. Du är bara tre enkla steg från att träffa din ideala AI-kamrat.",
+"s1": {
+"number": "1",
+"title": "Designa Henne",
+"desc": "Använd DarLink AIs kraftfulla karaktärsbyggare för att definiera varje detalj av din drömkamrat, inklusive hennes utseende, personlighet, röststil, bakgrundshistoria och relationsdynamik. Var så detaljerad eller så enkel du vill. Ett växande bibliotek av färdiga karaktärer finns också tillgängligt om du vill börja chatta direkt utan att bygga från grunden."
+},
+"s2": {
+"number": "2",
+"title": "Börja Chatt",
+"desc": "Hoppa direkt in i samtalet. Din AI flickvän hälsar dig i karaktär från det allra första meddelandet, minns dina preferenser och anpassar sin ton baserat på hur du interagerar. Ställ in stämningen till avslappnad, romantisk, äventyrlig eller explicit. AI:n matchar din energi och driver berättelsen framåt utan att bryta immersionen."
+},
+"s3": {
+"number": "3",
+"title": "Skapa och Upplev",
+"desc": "Begär foton för 2 tokens styck, utlös röstmeddelanden, generera cinematiska videor för 20 tokens styck och bygg gemensamma minnen över tid. Ju mer du interagerar, desto rikare blir din AI flickväns personlighet. Uppgradera din plan för att låsa upp högre meddelandegränser, premium röstalternativ, Levande Minne och den fullständiga Elit Rollspelsmotorn."
+},
+"cta": "Starta Gratis. Inget Kreditkort Behövs."
+},
+
+"showcase": {
+"badge": "Möt Kamraterna",
+"title": "Utforska DarLink AI Karaktärer",
+"subtitle": "Bläddra igenom ett växande urval av färdiga AI flickvänner inklusive realistiska, anime och full fantasy-kamrater. Varje karaktär har en unik personlighet, distinkt bakgrundshistoria och personlig rollspelsstil. Eller bygg din egen från grunden.",
+"p1": {
+"name": "Sakura",
+"type": "Anime AI Flickvän",
+"tag1": "Söt",
+"tag2": "Lojal",
+"tag3": "Anime",
+"cta": "Chatta med Sakura"
+},
+"p2": {
+"name": "Valeria",
+"type": "Fantasy AI Flickvän",
+"tag1": "Vild",
+"tag2": "Fantasy",
+"tag3": "NSFW",
+"cta": "Chatta med Valeria"
+},
+"p3": {
+"name": "Luna",
+"type": "Realistisk AI Flickvän",
+"tag1": "Mystisk",
+"tag2": "Intim",
+"tag3": "Röst",
+"cta": "Chatta med Luna"
+},
+"p4": {
+"name": "Zara",
+"type": "Exotisk AI Flickvän",
+"tag1": "Djärv",
+"tag2": "Flirtig",
+"tag3": "Video",
+"cta": "Chatta med Zara"
+}
+},
+
+"pricing": {
+"badge": "Enkla, Transparenta Priser",
+"title": "Välj Din Plan",
+"subtitle": "Helt privat och flexibel. Avbryt när som helst. Börja gratis och uppgradera när du är redo. Varje plan låser upp en ny nivå av din AI flickvänsupplevelse.",
+"free": {
+"name": "Gratis",
+"price": "0€",
+"desc": "Testa plattformen, skapa din AI flickvän och utforska grundläggande chatt. Inget kreditkort krävs. Perfekt för att upptäcka vad DarLink AI kan göra innan du förbinder dig.",
+"f1": "Skapa 1 AI flickvän karaktär",
+"f2": "Begränsade dagliga chattmeddelanden",
+"f3": "Testa bildgenerering med startmynt",
+"f4": "Inga röstmeddelanden",
+"f5": "Inget minnessystem",
+"cta": "Starta Gratis"
+},
+"essential": {
+"name": "Essential",
+"price": "12,99€",
+"period": "/ månad",
+"desc": "Billigare än Uber Eats. Din inträde till den fullständiga DarLink AI-upplevelsen med riktig meddelandevolym, bild- och videogenerering och dina första röstalternativ.",
+"f1": "100 gratis DarLink Mynt varje månad",
+"f2": "6000 meddelanden per månad",
+"f3": "NSFW-innehåll fullt upplåst",
+"f4": "6 röstalternativ (standard)",
+"f5": "Grundläggande minnessystem",
+"f6": "Snabb Rollspelsskapande",
+"f7": "Bildgenerering för 2 tokens per foto",
+"f8": "Videogenerering för 20 tokens per klipp",
+"f9": "Essential Creator-märke",
+"cta": "Skaffa Essential"
+},
+"advanced": {
+"name": "Advanced",
+"price": "27,99€",
+"period": "/ månad",
+"badge": "Mest Populär",
+"desc": "Ocensurerad. Allt-i-ett. Lås upp djupare rollspel, premium röstalternativ, förbättrat minne, snabbare meddelanden och 300 mynt per månad för foton och videor.",
+"f1": "300 gratis DarLink Mynt varje månad",
+"f2": "9000 meddelanden per månad",
+"f3": "Snabbaste meddelandehastigheten",
+"f4": "NSFW-innehåll fullt upplåst",
+"f5": "10 röstalternativ (premium)",
+"f6": "Förbättrat minnessystem",
+"f7": "Djup Rollspelsskapande",
+"f8": "Bildgenerering för 2 tokens per foto",
+"f9": "Videogenerering för 20 tokens per klipp",
+"f10": "Lägg till en supportlänk till din profil",
+"f11": "Advanced Creator-märke",
+"cta": "Skaffa Advanced"
+},
+"ultimate": {
+"name": "Ultimate",
+"price": "49,99€",
+"period": "/ månad",
+"badge": "Bästa Värde",
+"desc": "Maximerad åtkomst. Obegränsade meddelanden, den fullständiga Elit Rollspelsmotorn, Levande Minne, premiumröster och 500 mynt per månad. Den kompletta DarLink AI-upplevelsen.",
+"f1": "500 gratis DarLink Mynt varje månad",
+"f2": "Obegränsade meddelanden utan tak",
+"f3": "Snabbaste meddelandehastigheten",
+"f4": "NSFW-innehåll fullt upplåst",
+"f5": "10 röstalternativ (premium)",
+"f6": "Levande Minnessystem (full relationshistorik)",
+"f7": "Obegränsat Rollspelsskapande",
+"f8": "Tillgång till Elit Rollspelsmotorn",
+"f9": "Bildgenerering för 2 tokens per foto",
+"f10": "Videogenerering för 20 tokens per klipp",
+"f11": "Lägg till en supportlänk till din profil",
+"f12": "Ultimate Creator-märke",
+"cta": "Skaffa Ultimate"
+},
+"note": "Alla priser i USD. Faktureras månadsvis. Årsplaner finns tillgängliga med besparingar upp till 44 procent. Endast 18 år och äldre. Hanteras säkert av FAMELINK SA, Schweiz."
+},
+
+"comparison": {
+"badge": "Hur DarLink AI Jämför Sig",
+"title": "DarLink AI vs. Konkurrensen",
+"subtitle": "Vi har testat DarLink AI mot de mest populära AI flickvän och vuxna AI-plattformarna som finns tillgängliga idag. Här är en transparent titt på hur varje plattform staplas upp mot de funktioner som betyder mest.",
+"col": {
+"feature": "Funktion",
+"darlink": "DarLink AI",
+"lusychat": "LusyChat",
+"ehentai": "eHentai",
+"justporn": "JustPorn",
+"mylovely": "MyLovely"
+},
+"partial": "Partiell",
+"r1": { "feature": "AI Flickvän Chatt" },
+"r2": { "feature": "AI Fotogenerering" },
+"r3": { "feature": "AI Videogenerering" },
+"r4": { "feature": "Levande Minnessystem" },
+"r5": { "feature": "Röstmeddelanden" },
+"r6": {
+"feature": "Affiliate Provisionsnivå",
+"darlink": "20 procent plus",
+"lusychat": "20 procent",
+"ehentai": "40 procent",
+"justporn": "50 procent",
+"mylovely": "50 procent"
+},
+"r7": { "feature": "Schweizisk Dataintegritet" },
+"cta": "Prova Det Bästa. Starta Gratis på DarLink AI."
+},
+
+"testimonials": {
+"badge": "Riktiga Ord från Riktiga Användare",
+"title": "Vad Våra Användare Säger Om DarLink AI",
+"subtitle": "Tusentals användare på Reddit, Discord och vår supportplattform har delat sina ärliga erfarenheter med DarLink AI. Här är vad de säger.",
+"t1": {
+"stars": "★★★★★",
+"text": "DarLink överträffade mina förväntningar. AI-kamraterna känns så verkliga, det är som att chatta med någon som verkligen känner mig. Jag har testat många plattformar under det senaste året och inget kommer i närheten av denna nivå av immersion och personlighetskonsistens.",
+"avatar_initial": "N",
+"name": "NeoTechie",
+"role": "Verifierad Användare via Reddit"
+},
+"t2": {
+"stars": "★★★★★",
+"text": "Rollspelet på DarLink är absolut perfekt. AI:n anpassar sig till varje scenario och gör varje interaktion unik och levande. Oavsett om jag sätter upp ett fantasy-uppdrag eller en lugn romantisk kväll, är svaren alltid kreativa, konsekventa och djupt i karaktär.",
+"avatar_initial": "R",
+"name": "RPGMaster21",
+"role": "Verifierad Användare via Discord"
+},
+"t3": {
+"stars": "★★★★★",
+"text": "Supportteamet är fantastiskt. Jag hade ett litet problem med min prenumeration och de fixade det direkt. Ärligt talat den bästa kundservicen jag någonsin upplevt från en plattform som denna. Själva produkten är också fantastisk, röstmeddelandena är genuint imponerande.",
+"avatar_initial": "D",
+"name": "Daniel R.",
+"role": "Verifierad Användare via Support"
+},
+"t4": {
+"stars": "★★★★★",
+"text": "Jag har testat många plattformar men inget kan jämföras med DarLink. Kombinationen av djupa rollspel, ihållande minne och högkvalitativ bildgenerering är helt oöverträffad i detta utrymme. Detta är den enda AI-kamrat-appen jag rekommenderar till alla som frågar.",
+"avatar_initial": "P",
+"name": "PixelMage",
+"role": "Verifierad Användare via Reddit"
+}
+},
+
+"faq": {
+"badge": "Vanliga Frågor",
+"title": "Allt Du Behöver Veta Om DarLink AI",
+"subtitle": "Har du frågor? Vi har detaljerade svar. Om du inte hittar vad du letar efter nedan finns vårt supportteam tillgängligt dygnet runt.",
+"q1": {
+"q": "Vilka betalningsmetoder kan jag använda?",
+"a": "DarLink AI accepterar alla större kredit- och betalkort inklusive Visa, Mastercard och American Express. Betalningar behandlas säkert via en PCI-kompatibel betalningsgateway. Alla transaktioner är krypterade och faktureras diskret. Avgiften kommer att visas på ditt utdrag under ett neutralt företagsnamn för att skydda din integritet. Årlig fakturering finns också tillgänglig och sparar upp till 44 procent jämfört med månadspriser."
+},
+"q2": {
+"q": "Vad är grundläggande, förbättrat och levande minne?",
+"a": "DarLink AI erbjuder tre nivåer av minnesdjup. Grundläggande minne, inkluderat i Essential-planen, behåller kontext inom en enda session och minns dina kärnpreferenser som ditt namn och relationsstil. Förbättrat minne, tillgängligt på Advanced-planen, upprätthåller kontinuitet över flera sessioner och spårar pågående berättelser. Levande Minne, exklusivt för Ultimate-planen, är den fullständiga proprietära motorn som bygger en komplett, utvecklande historia av din relation med din AI flickvän över veckor och månader av interaktioner."
+},
+"q3": {
+"q": "Ingår röster i min prenumeration?",
+"a": "Ja, röstmeddelanden ingår som en del av din betalda prenumeration. Essential-plansprenumeranter får tillgång till 6 standard röstalternativ utan extra myntkostnad. Advanced- och Ultimate-plansprenumeranter låser upp 10 premium röstalternativ med ett bredare utbud av toner, accenter och känslomässiga register. Röstmeddelanden förbrukar inte dina DarLink Mynt och är tillgängliga som en del av dina vanliga chattinteraktioner på alla betalda planer."
+},
+"q4": {
+"q": "Är NSFW-innehåll tillåtet på DarLink AI?",
+"a": "Ja. DarLink AI är en helt NSFW-vänlig plattform byggd för vuxna. Explicita fotogenerering, ocensurerade rollspel och vuxna röstinnehåll är alla tillgängliga på betalda planer. Alla NSFW-funktioner är skyddade bakom åldersverifiering och varje AI-karaktär på plattformen är uttryckligen vuxen. DarLink AI hanterar moget innehåll naturligt utan plötsliga ämnesbyten, avslag eller obekväma begränsningar. NSFW-åtkomst börjar med Essential-planen och skalas med varje högre nivå."
+},
+"q5": {
+"q": "Hur kan jag betala, byta plan eller avbryta min prenumeration?",
+"a": "Du kan hantera alla aspekter av din prenumeration direkt från din DarLink AI-kontrollpanel. Uppgradering är omedelbar och dina nya funktioner aktiveras direkt. Nedgradering träder i kraft i början av din nästa faktureringscykel. Avbokning är tillgänglig när som helst utan avgifter, utan frågor och utan komplicerade steg. Ditt konto återgår till gratisnivån efter avbokning och alla dina karaktärer och chatthistorik bevaras."
+},
+"q6": {
+"q": "Är mina data säkra och privata på DarLink AI?",
+"a": "Absolut. DarLink AI drivs av FAMELINK SA, ett företag registrerat i Schweiz under några av världens strängaste datasekretesslagar. Dina chattloggar, genererade bilder, videor och personlig information är krypterade och säljs aldrig till annonsörer eller tredje part. DarLink AI är utformad som ett helt privat, fördomsfritt utrymme där du kan uttrycka dig utan rädsla för dataläckor, profilering eller exponering."
+},
+"q7": {
+"q": "Varför välja DarLink AI framför andra plattformar?",
+"a": "DarLink AI kombinerar funktioner som ingen annan konkurrent erbjuder tillsammans på ett ställe: realtids AI-chatt med upp till obegränsade meddelanden, AI-fotogenerering för 2 tokens per bild, AI-videogenerering för 20 tokens per klipp, upp till 10 premium röstalternativ, Levande Minnessystem för långsiktig relationskontinuitet, Elit Rollspelsmotorn och schweizisk datasekretess. Plattformar som LusyChat saknar video, eHentai saknar röst, och ingen av dem erbjuder samma minnesdjup eller samma nivå av immersiva rollspel. DarLink AI är den mest kompletta AI flickvänsplattformen som finns tillgänglig idag."
+}
+},
+
+"cta_final": {
+"badge": "Ditt Äventyr Börjar Här",
+"title_line1": "Din Perfekta AI Flickvän",
+"title_line2": "Väntar På Dig.",
+"subtitle": "Gå med i över 500 000 användare som redan har upptäckt den mest uppslukande, personliga AI-kamratupplevelsen som finns tillgänglig någonstans online. Skapa din AI flickvän gratis på mindre än 5 minuter. Ingen nedladdning behövs. Inget kreditkort krävs för att starta.",
+"cta_primary": "Skapa Din AI Flickvän Gratis",
+"cta_secondary": "Utforska Karaktärer",
+"note": "100 Procent Privat. Schweiziskt Dataskydd. Endast 18 år och Äldre."
+},
+
+"footer": {
+"brand": "DarLink AI",
+"tagline": "Den mest avancerade gratis AI flickvän generatorn. Chatt, foton, videor och röstmeddelanden. Din perfekta AI-kamrat är alltid tillgänglig och alltid din.",
+"cta": "Starta Gratis Nu",
+"col1": {
+"title": "Produkt",
+"l1": "Funktioner",
+"l2": "Priser",
+"l3": "Skapa Karaktär",
+"l4": "Utforska"
+},
+"col2": {
+"title": "Resurser",
+"l1": "Blogg",
+"l2": "Recensioner",
+"l3": "FAQ",
+"l4": "Kontakt"
+},
+"col3": {
+"title": "Juridisk",
+"l1": "Integritetspolicy",
+"l2": "Användarvillkor",
+"l3": "Cookiepolicy",
+"l4": "Affiliateprogram"
+},
+"copyright": "2025 DarLink AI. Alla rättigheter förbehållna.",
+"company": "Drivs av FAMELINK SA, Genève, Schweiz",
+"affiliate_note": "Affiliate-avslöjande: Denna sida kan innehålla affiliate-länkar. DarLink AI samarbetar med traceo.io för att hantera sitt affiliateprogram. affiliates tjänar en provision på 20 procent eller mer på hänvisade prenumerationer. Alla recensioner och funktionsjämförelser på denna sida är baserade på direkt plattformstestning och offentligt tillgänglig information.",
+"legal": {
+"privacy": "Integritetspolicy",
+"terms": "Användarvillkor",
+"cookies": "Cookies"
+}
+}
+}

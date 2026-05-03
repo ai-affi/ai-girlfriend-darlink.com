@@ -333,8 +333,8 @@
 
     /* ─── SHOWCASE ─────────────────────────────────────────────────── */
     .showcase__grid {
-      display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
-      gap: 28px;
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 32px;
     }
     .showcase-card {
       background: var(--gradient-card); border: 1px solid var(--clr-border);
@@ -343,9 +343,10 @@
     }
     .showcase-card:hover { transform: translateY(-6px); box-shadow: 0 20px 40px rgba(0,0,0,0.35); }
     .showcase-card__image {
-      aspect-ratio: 1; background: linear-gradient(135deg, rgba(224,64,251,0.2), rgba(255,64,129,0.1));
+      aspect-ratio: 3/4; background: linear-gradient(135deg, rgba(224,64,251,0.2), rgba(255,64,129,0.1));
       display: flex; align-items: center; justify-content: center; font-size: 3rem;
       overflow: hidden; border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+      min-height: 380px;
     }
     .showcase-card__image img {
       width: 100%; height: 100%; object-fit: cover;
@@ -359,6 +360,9 @@
       background: linear-gradient(to top, rgba(10,10,15,0.95), transparent);
     }
     .showcase-card__image-emoji { position: relative; z-index: 1; }
+    .showcase-card__image-link {
+      display: block; text-decoration: none;
+    }
     .showcase-card__body { padding: 20px; }
     .showcase-card__name { font-size: 1.05rem; font-weight: 700; margin-bottom: 4px; }
     .showcase-card__type { font-size: 0.8rem; color: var(--clr-primary); margin-bottom: 12px; }
@@ -614,6 +618,96 @@
   </section>
 
   <!-- ═══════════════════════════════════════════════════════════════
+       SECTION 4 — SHOWCASE
+  ════════════════════════════════════════════════════════════════ -->
+  <section id="showcase" class="section section--alt" aria-labelledby="showcase-title">
+    <div class="container">
+      <div class="section-header section-header--center">
+        <div class="badge"><span>💎</span><span data-i18n="showcase.badge"></span></div>
+        <h2 class="section-title" id="showcase-title" data-i18n="showcase.title"></h2>
+        <p class="section-subtitle" data-i18n="showcase.subtitle"></p>
+      </div>
+      <div class="showcase__grid">
+
+        <article class="showcase-card">
+          <a href="https://darlink.ai/create?ref=affiliate" class="showcase-card__image-link">
+          <div class="showcase-card__image">
+            <img src="images/anime_ai_girlfriend.webp" alt="Sakura - Anime AI Girlfriend" loading="lazy" />
+          </div>
+          </a>
+          <div class="showcase-card__body">
+            <div class="showcase-card__name" data-i18n="showcase.p1.name"></div>
+            <div class="showcase-card__type" data-i18n="showcase.p1.type"></div>
+            <div class="showcase-card__tags">
+              <span class="showcase-card__tag" data-i18n="showcase.p1.tag1"></span>
+              <span class="showcase-card__tag" data-i18n="showcase.p1.tag2"></span>
+              <span class="showcase-card__tag" data-i18n="showcase.p1.tag3"></span>
+            </div>
+            <a href="https://darlink.ai/create" class="btn btn--primary btn--sm showcase-card__cta" data-i18n="showcase.p1.cta"></a>
+          </div>
+        </article>
+
+        <article class="showcase-card">
+          <a href="https://darlink.ai/create?ref=affiliate" class="showcase-card__image-link">
+          <div class="showcase-card__image">
+            <img src="images/fantasy_ai_girlfriend.webp" alt="Valeria - Fantasy AI Girlfriend" loading="lazy" />
+          </div>
+          </a>
+          <div class="showcase-card__body">
+            <div class="showcase-card__name" data-i18n="showcase.p2.name"></div>
+            <div class="showcase-card__type" data-i18n="showcase.p2.type"></div>
+            <div class="showcase-card__tags">
+              <span class="showcase-card__tag" data-i18n="showcase.p2.tag1"></span>
+              <span class="showcase-card__tag" data-i18n="showcase.p2.tag2"></span>
+              <span class="showcase-card__tag" data-i18n="showcase.p2.tag3"></span>
+            </div>
+            <a href="https://darlink.ai/create" class="btn btn--primary btn--sm showcase-card__cta" data-i18n="showcase.p2.cta"></a>
+          </div>
+        </article>
+
+        <article class="showcase-card">
+          <a href="https://darlink.ai/create?ref=affiliate" class="showcase-card__image-link">
+          <div class="showcase-card__image">
+            <img src="images/realistic_ai_girlfriend.webp" alt="Luna - Realistic AI Girlfriend" loading="lazy" />
+          </div>
+          </a>
+          <div class="showcase-card__body">
+            <div class="showcase-card__name" data-i18n="showcase.p3.name"></div>
+            <div class="showcase-card__type" data-i18n="showcase.p3.type"></div>
+            <div class="showcase-card__tags">
+              <span class="showcase-card__tag" data-i18n="showcase.p3.tag1"></span>
+              <span class="showcase-card__tag" data-i18n="showcase.p3.tag2"></span>
+              <span class="showcase-card__tag" data-i18n="showcase.p3.tag3"></span>
+            </div>
+            <a href="https://darlink.ai/create" class="btn btn--primary btn--sm showcase-card__cta" data-i18n="showcase.p3.cta"></a>
+          </div>
+        </article>
+
+        <article class="showcase-card">
+          <a href="https://darlink.ai/create?ref=affiliate" class="showcase-card__image-link">
+          <div class="showcase-card__image">
+            <img src="images/exotic_ai_girlfriend.webp" alt="Zara - Exotic AI Girlfriend" loading="lazy" />
+          </div>
+          </a>
+          <div class="showcase-card__body">
+            <div class="showcase-card__name" data-i18n="showcase.p4.name"></div>
+            <div class="showcase-card__type" data-i18n="showcase.p4.type"></div>
+            <div class="showcase-card__tags">
+              <span class="showcase-card__tag" data-i18n="showcase.p4.tag1"></span>
+              <span class="showcase-card__tag" data-i18n="showcase.p4.tag2"></span>
+              <span class="showcase-card__tag" data-i18n="showcase.p4.tag3"></span>
+            </div>
+            <a href="https://darlink.ai/create" class="btn btn--primary btn--sm showcase-card__cta" data-i18n="showcase.p4.cta"></a>
+          </div>
+        </article>
+
+      </div>
+    </div>
+  </section>
+
+
+
+  <!-- ═══════════════════════════════════════════════════════════════
        SECTION 2 — FEATURES
   ════════════════════════════════════════════════════════════════ -->
   <section id="features" class="section section--alt" aria-labelledby="features-title">
@@ -711,87 +805,7 @@
   </section>
 
   <!-- ═══════════════════════════════════════════════════════════════
-       SECTION 4 — SHOWCASE
-  ════════════════════════════════════════════════════════════════ -->
-  <section id="showcase" class="section section--alt" aria-labelledby="showcase-title">
-    <div class="container">
-      <div class="section-header section-header--center">
-        <div class="badge"><span>💎</span><span data-i18n="showcase.badge"></span></div>
-        <h2 class="section-title" id="showcase-title" data-i18n="showcase.title"></h2>
-        <p class="section-subtitle" data-i18n="showcase.subtitle"></p>
-      </div>
-      <div class="showcase__grid">
-
-        <article class="showcase-card">
-          <div class="showcase-card__image">
-            <img src="images/anime_ai_girlfriend.webp" alt="Sakura - Anime AI Girlfriend" loading="lazy" />
-          </div>
-          <div class="showcase-card__body">
-            <div class="showcase-card__name" data-i18n="showcase.p1.name"></div>
-            <div class="showcase-card__type" data-i18n="showcase.p1.type"></div>
-            <div class="showcase-card__tags">
-              <span class="showcase-card__tag" data-i18n="showcase.p1.tag1"></span>
-              <span class="showcase-card__tag" data-i18n="showcase.p1.tag2"></span>
-              <span class="showcase-card__tag" data-i18n="showcase.p1.tag3"></span>
-            </div>
-            <a href="https://darlink.ai/create" class="btn btn--primary btn--sm showcase-card__cta" data-i18n="showcase.p1.cta"></a>
-          </div>
-        </article>
-
-        <article class="showcase-card">
-          <div class="showcase-card__image">
-            <img src="images/fantasy_ai_girlfriend.webp" alt="Valeria - Fantasy AI Girlfriend" loading="lazy" />
-          </div>
-          <div class="showcase-card__body">
-            <div class="showcase-card__name" data-i18n="showcase.p2.name"></div>
-            <div class="showcase-card__type" data-i18n="showcase.p2.type"></div>
-            <div class="showcase-card__tags">
-              <span class="showcase-card__tag" data-i18n="showcase.p2.tag1"></span>
-              <span class="showcase-card__tag" data-i18n="showcase.p2.tag2"></span>
-              <span class="showcase-card__tag" data-i18n="showcase.p2.tag3"></span>
-            </div>
-            <a href="https://darlink.ai/create" class="btn btn--primary btn--sm showcase-card__cta" data-i18n="showcase.p2.cta"></a>
-          </div>
-        </article>
-
-        <article class="showcase-card">
-          <div class="showcase-card__image">
-            <img src="images/realistic_ai_girlfriend.webp" alt="Luna - Realistic AI Girlfriend" loading="lazy" />
-          </div>
-          <div class="showcase-card__body">
-            <div class="showcase-card__name" data-i18n="showcase.p3.name"></div>
-            <div class="showcase-card__type" data-i18n="showcase.p3.type"></div>
-            <div class="showcase-card__tags">
-              <span class="showcase-card__tag" data-i18n="showcase.p3.tag1"></span>
-              <span class="showcase-card__tag" data-i18n="showcase.p3.tag2"></span>
-              <span class="showcase-card__tag" data-i18n="showcase.p3.tag3"></span>
-            </div>
-            <a href="https://darlink.ai/create" class="btn btn--primary btn--sm showcase-card__cta" data-i18n="showcase.p3.cta"></a>
-          </div>
-        </article>
-
-        <article class="showcase-card">
-          <div class="showcase-card__image">
-            <img src="images/exotic_ai_girlfriend.webp" alt="Zara - Exotic AI Girlfriend" loading="lazy" />
-          </div>
-          <div class="showcase-card__body">
-            <div class="showcase-card__name" data-i18n="showcase.p4.name"></div>
-            <div class="showcase-card__type" data-i18n="showcase.p4.type"></div>
-            <div class="showcase-card__tags">
-              <span class="showcase-card__tag" data-i18n="showcase.p4.tag1"></span>
-              <span class="showcase-card__tag" data-i18n="showcase.p4.tag2"></span>
-              <span class="showcase-card__tag" data-i18n="showcase.p4.tag3"></span>
-            </div>
-            <a href="https://darlink.ai/create" class="btn btn--primary btn--sm showcase-card__cta" data-i18n="showcase.p4.cta"></a>
-          </div>
-        </article>
-
-      </div>
-    </div>
-  </section>
-
-  <!-- ═══════════════════════════════════════════════════════════════
-       SECTION 5 — PRICING
+       SECTION 4 — PRICING
   ════════════════════════════════════════════════════════════════ -->
   <section id="pricing" class="section section--dark" aria-labelledby="pricing-title">
     <div class="container">
@@ -883,7 +897,7 @@
   </section>
 
   <!-- ═══════════════════════════════════════════════════════════════
-       SECTION 6 — COMPARISON TABLE
+       SECTION 5 — COMPARISON TABLE
   ════════════════════════════════════════════════════════════════ -->
   <section id="comparison" class="section" aria-labelledby="comparison-title">
     <div class="container">
@@ -971,7 +985,7 @@
   </section>
 
   <!-- ═══════════════════════════════════════════════════════════════
-       SECTION 7 — TESTIMONIALS
+       SECTION 6 — TESTIMONIALS
   ════════════════════════════════════════════════════════════════ -->
   <section id="testimonials" class="section section--alt" aria-labelledby="testimonials-title">
     <div class="container">
@@ -1026,7 +1040,7 @@
   </section>
 
   <!-- ═══════════════════════════════════════════════════════════════
-       SECTION 8 — FAQ
+       SECTION 7 — FAQ
   ════════════════════════════════════════════════════════════════ -->
   <section id="faq" class="section section--dark" aria-labelledby="faq-title">
     <div class="container--narrow">
@@ -1090,7 +1104,7 @@
   </section>
 
   <!-- ═══════════════════════════════════════════════════════════════
-       SECTION 9 — CTA FINAL
+       SECTION 8 — CTA FINAL
   ════════════════════════════════════════════════════════════════ -->
   <section id="cta-final" class="section" aria-labelledby="cta-final-title">
     <div class="container">
@@ -1113,7 +1127,7 @@
   </section>
 
   <!-- ═══════════════════════════════════════════════════════════════
-       SECTION 10 — FOOTER
+       SECTION 9 — FOOTER
   ════════════════════════════════════════════════════════════════ -->
   <footer role="contentinfo">
     <div class="container">

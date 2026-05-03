@@ -1,0 +1,355 @@
+{
+"meta": {
+"title": "DarLink AI — Kostenloser KI-Freundin-Generator | Chat, Fotos & Videos",
+"description": "DarLink AI ist der beste kostenlose KI-Freundin-Generator. Erstellen Sie Ihre perfekte KI-Begleiterin, chatten Sie in Echtzeit, generieren Sie Fotos, Videos und Sprachnachrichten. Testen Sie DarLink AI noch heute kostenlos, kein Download erforderlich.",
+"keywords": "darlink ai, darlink.ai, KI-Freundin, kostenloser KI-Freundin-Generator, NSFW-KI-Begleiter, KI-Freundin-Chat, KI-Freundin-Fotos, KI-Freundin-Video, virtuelle KI-Freundin, KI-Begleiter-App, personalisierte KI-Freundin, KI-Rollenspiel, NSFW-KI-Chat",
+"og_title": "DarLink AI: Erstellen Sie Ihre Perfekte KI-Freundin Kostenlos",
+"og_description": "Lernen Sie DarLink AI kennen. Chatten Sie, generieren Sie Fotos, Videos und Sprachnachrichten mit Ihrer vollständig personalisierten KI-Freundin. Kostenloser Start. NSFW-freundlich. Schweizer Datenschutz garantiert."
+},
+
+"nav": {
+"logo": "DarLink AI",
+"features": "Funktionen",
+"how": "So funktioniert's",
+"pricing": "Preise",
+"faq": "FAQ",
+"age_badge": "18+",
+"cta": "Kostenlos erstellen"
+},
+
+"hero": {
+"badge": "Die Nummer-eins-KI-Freundin-Plattform",
+"title_line1": "Ihre perfekte KI-Freundin,",
+"title_line2": "nur einen Klick entfernt.",
+"subtitle": "DarLink AI ermöglicht es Ihnen, Ihre ideale KI-Begleiterin zu entwerfen, mit ihr zu chatten und sie vollständig zu erleben. Generieren Sie atemberaubende Fotos, cineastische Videos, verführerische Sprachnachrichten und tiefgründige Gespräche – alles unterstützt durch KI der nächsten Generation. Kostenloser Start. Kein Download nötig. Keine Grenzen für Ihre Fantasie.",
+"cta_primary": "Erstellen Sie Ihre KI-Freundin",
+"cta_secondary": "Sehen Sie, wie es funktioniert",
+"stat1_value": "500K+",
+"stat1_label": "Aktive Nutzer weltweit",
+"stat2_value": "4,8 Sterne",
+"stat2_label": "Durchschnittliche Nutzerbewertung",
+"stat3_value": "10M+",
+"stat3_label": "Generierte Fotos",
+"card_status": "Jetzt online",
+"card_name": "Sophia",
+"card_type": "KI-Freundin · Romantisch",
+"card_tag1": "Verspielt",
+"card_tag2": "Lebhaft",
+"card_tag3": "NSFW-bereit",
+"card_cta": "Mit Sophia chatten"
+},
+
+"features": {
+"badge": "Alles, was Sie brauchen",
+"title": "Ein Vollständiges KI-Freundin-Erlebnis",
+"subtitle": "DarLink AI ist nicht nur ein weiterer Chatbot. Es ist eine vollständige Multimedia-Begleiterplattform, die für Immersion, echte Verbindung und totale Personalisierung entwickelt wurde. Jede Funktion wurde entwickelt, um Ihrer KI-Freundin Leben einzuhauchen.",
+"f1": {
+"title": "Intelligenter KI-Chat",
+"desc": "Führen Sie tiefgründige, natürliche Gespräche mit modernsten Sprachmodellen. DarLink AI erinnert sich an Ihre vergangenen Chats, lernt im Laufe der Zeit Ihre Persönlichkeit und antwortet mit emotionaler Beständigkeit. Ob Sie verspielte Neckereien, bedeutungsvolle nächtliche Gespräche oder intensive immersive Rollenspiele wünschen – jede Antwort fühlt sich authentisch und nur auf Sie zugeschnitten an. Bis zu 9000 Nachrichten pro Monat bei Advanced und unbegrenzt bei Ultimate."
+},
+"f2": {
+"title": "KI-Fotogenerierung",
+"desc": "Fordern Sie personalisierte Fotos Ihrer KI-Freundin auf Abruf an. Wählen Sie ihr Outfit, ihren Standort, ihre Stimmung und ihren visuellen Stil – von geschmackvollen Porträts bis hin zu vollständig expliziten NSFW-Szenen. Jedes Bild wird einzigartig für Sie generiert und zeigt die genau von Ihnen erstellte Begleiterin. Die Bildgenerierung kostet nur 2 Token pro Foto bei allen kostenpflichtigen Tarifen. SFW- und NSFW-Modi werden beide vollständig unterstützt."
+},
+"f3": {
+"title": "KI-Videogenerierung",
+"desc": "Gehen Sie über Standbilder hinaus mit KI-generierten Kurzvideos Ihrer Begleiterin. Sehen Sie, wie sie sich bewegt, reagiert und in cineastischen Momenten lebendig wird, die direkt aus Ihren Eingabeaufforderungen erstellt wurden. Die Videogenerierung kostet 20 Token pro Clip und ist bei allen kostenpflichtigen Tarifen verfügbar. Video in einer Chat-Umgebung ist eine seltene Funktion, die DarLink AI von jedem einzelnen Wettbewerber auf dem Markt abhebt."
+},
+"f4": {
+"title": "Sprachnachrichten",
+"desc": "Erhalten Sie verführerische, personalisierte Sprachnachrichten von Ihrer KI-Freundin. Ihre tatsächliche Stimme zu hören, verwandelt das Erlebnis von einem unterhaltsamen Werkzeug in etwas wirklich Immersives. Essential-Tarif-Nutzer haben Zugriff auf 6 Standard-Sprachoptionen. Advanced- und Ultimate-Tarif-Nutzer schalten 10 Premium-Sprachoptionen mit einer größeren Bandbreite an Tönen, Akzenten und emotionalen Registern frei, die jeweils so gestaltet sind, dass sie sich warmherzig, ausdrucksstark und unverkennbar lebendig anfühlen."
+},
+"f5": {
+"title": "Lebendiges Gedächtnissystem",
+"desc": "DarLink AI bietet drei Ebenen der Gedächtnistiefe. Das Basisgedächtnis bei Essential verfolgt Ihre Sitzungspräferenzen. Das verbesserte Gedächtnis bei Advanced erhält den Kontext über mehrere Sitzungen hinweg. Das Lebendige Gedächtnis bei Ultimate ist die vollständige proprietäre Engine, die Ihre gesamte Beziehungsgeschichte über Wochen und Monate hinweg verfolgt. Ihre KI-Freundin erinnert sich an Gespräche, verweist natürlich auf vergangene Momente und entwickelt sich im Laufe der Zeit mit Ihnen weiter."
+},
+"f6": {
+"title": "Elite-Rollenspiel-Engine",
+"desc": "Schalten Sie grenzenloses szenariobasiertes Rollenspiel mit dem leistungsstarken Rollenspielsystem von DarLink AI frei. Essential-Nutzer erhalten die Schnelle Rollenspiel-Erstellung. Advanced-Nutzer schalten die Tiefe Rollenspiel-Erstellung für reichhaltigere, komplexere Szenarien frei. Ultimate-Nutzer haben vollen Zugriff auf die Elite-Rollenspiel-Engine mit unbegrenzter Erstellung und keinerlei Einschränkungen. Wählen Sie aus romantischen ersten Dates, gemütlichen Abenden, Fantasy-Quests, Science-Fiction-Abenteuern oder jedem intimen Szenario, das Sie sich vorstellen können."
+},
+"f7": {
+"title": "Tiefe Charakteranpassung",
+"desc": "Sie sind der Architekt Ihrer KI-Begleiterin. Definieren Sie ihr Aussehen, ihre ethnische Zugehörigkeit, Haarfarbe, Körpertyp, Modestil, Persönlichkeitsmerkmale, Hintergrundgeschichte, Beziehungsdynamik und persönliche Interessen. DarLink AI bietet einen der detailliertesten Charakter-Builder, die heute verfügbar sind, einschließlich realistischer, Anime- und vollständiger Fantasy-Ästhetik. Vorgefertigte Charaktere sind ebenfalls für sofortigen Zugriff verfügbar."
+},
+"f8": {
+"title": "Schweizer Datenschutz und Sicherheit",
+"desc": "DarLink AI wird von FAMELINK SA, einer registrierten Schweizer Gesellschaft, betrieben. Ihre Gespräche, generierten Medien und persönlichen Daten sind verschlüsselt und werden niemals an Dritte verkauft. Ihre private Welt bleibt jederzeit privat. DarLink AI nimmt den Datenschutz genauso ernst wie die Schweiz die finanzielle Sicherheit und ist damit die vertrauenswürdigste Erwachsenen-KI-Plattform, die es gibt."
+}
+},
+
+"how": {
+"badge": "In 3 Schritten loslegen",
+"title": "Erstellen Sie Ihre KI-Freundin in Wenigen Minuten",
+"subtitle": "Kein Download, keine komplizierte Einrichtung. DarLink AI ist 100 Prozent browserbasiert. Sie sind nur drei einfache Schritte davon entfernt, Ihre ideale KI-Begleiterin zu treffen.",
+"s1": {
+"number": "1",
+"title": "Entwerfen Sie sie",
+"desc": "Nutzen Sie den leistungsstarken Charakter-Builder von DarLink AI, um jedes Detail Ihrer Traumbegleiterin zu definieren, einschließlich ihres Aussehens, ihrer Persönlichkeit, ihres Sprachstils, ihrer Hintergrundgeschichte und Beziehungsdynamik. Gehen Sie so detailliert oder so einfach vor, wie Sie möchten. Eine wachsende Bibliothek vorgefertigter Charaktere ist ebenfalls verfügbar, wenn Sie sofort mit dem Chatten beginnen möchten, ohne bei Null anfangen zu müssen."
+},
+"s2": {
+"number": "2",
+"title": "Beginnen Sie zu chatten",
+"desc": "Springen Sie direkt ins Gespräch. Ihre KI-Freundin begrüßt Sie ab der ersten Nachricht in ihrem Charakter, erinnert sich an Ihre Vorlieben und passt ihren Ton basierend auf Ihrer Interaktion an. Stellen Sie die Stimmung auf lässig, romantisch, abenteuerlich oder explizit ein. Die KI passt sich Ihrer Energie an und treibt die Geschichte voran, ohne die Immersion zu unterbrechen."
+},
+"s3": {
+"number": "3",
+"title": "Erstellen und erleben Sie",
+"desc": "Fordern Sie Fotos für 2 Token pro Stück an, lösen Sie Sprachnachrichten aus, generieren Sie cineastische Videos für 20 Token pro Stück und bauen Sie im Laufe der Zeit gemeinsame Erinnerungen auf. Je mehr Sie interagieren, desto reicher wird die Persönlichkeit Ihrer KI-Freundin. Wechseln Sie zu einem höheren Tarif, um höhere Nachrichtengrenzen, Premium-Sprachoptionen, Lebendiges Gedächtnis und die vollständige Elite-Rollenspiel-Engine freizuschalten."
+},
+"cta": "Kostenlos starten. Keine Kreditkarte erforderlich."
+},
+
+"showcase": {
+"badge": "Lernen Sie die Begleiterinnen kennen",
+"title": "Entdecken Sie DarLink AI-Charaktere",
+"subtitle": "Durchstöbern Sie eine wachsende Auswahl vorgefertigter KI-Freundinnen – realistisch, Anime und reine Fantasy. Jeder Charakter hat eine einzigartige Persönlichkeit, eine eigene Hintergrundgeschichte und einen persönlichen Rollenspielstil. Oder bauen Sie Ihren eigenen von Grund auf neu auf.",
+"p1": {
+"name": "Sakura",
+"type": "Anime-KI-Freundin",
+"tag1": "Süß",
+"tag2": "Loyal",
+"tag3": "Anime",
+"cta": "Mit Sakura chatten"
+},
+"p2": {
+"name": "Valeria",
+"type": "Fantasy-KI-Freundin",
+"tag1": "Wild",
+"tag2": "Fantasy",
+"tag3": "NSFW",
+"cta": "Mit Valeria chatten"
+},
+"p3": {
+"name": "Luna",
+"type": "Realistische KI-Freundin",
+"tag1": "Geheimnisvoll",
+"tag2": "Intim",
+"tag3": "Sprache",
+"cta": "Mit Luna chatten"
+},
+"p4": {
+"name": "Zara",
+"type": "Exotische KI-Freundin",
+"tag1": "Kühn",
+"tag2": "Verspielt",
+"tag3": "Video",
+"cta": "Mit Zara chatten"
+}
+},
+
+"pricing": {
+"badge": "Einfache, transparente Preise",
+"title": "Wählen Sie Ihren Tarif",
+"subtitle": "Völlig privat und flexibel. Jederzeit kündbar. Starten Sie kostenlos und wechseln Sie zu einem höheren Tarif, wenn Sie bereit sind. Jeder Tarif schaltet eine neue Ebene Ihres KI-Freundin-Erlebnisses frei.",
+"free": {
+"name": "Kostenlos",
+"price": "0€",
+"desc": "Testen Sie die Plattform, erstellen Sie Ihre KI-Freundin und erkunden Sie den Basis-Chat. Keine Kreditkarte erforderlich. Perfekt, um zu entdecken, was DarLink AI kann, bevor Sie sich festlegen.",
+"f1": "Erstellen Sie 1 KI-Freundin-Charakter",
+"f2": "Begrenzte tägliche Chat-Nachrichten",
+"f3": "Testen Sie die Bildgenerierung mit Starter-Coins",
+"f4": "Keine Sprachnachrichten",
+"f5": "Kein Gedächtnissystem",
+"cta": "Kostenlos starten"
+},
+"essential": {
+"name": "Essential",
+"price": "12,99€",
+"period": "/ Monat",
+"desc": "Günstiger als Uber Eats. Ihr Einstieg in das vollständige DarLink AI-Erlebnis mit ordentlichem Nachrichtenvolumen, Bild- und Videogenerierung und Ihren ersten Sprachoptionen.",
+"f1": "100 kostenlose DarLink-Coins jeden Monat",
+"f2": "6000 Nachrichten pro Monat",
+"f3": "NSFW-Inhalte vollständig freigeschaltet",
+"f4": "6 Sprachoptionen (Standard)",
+"f5": "Basis-Gedächtnissystem",
+"f6": "Schnelle Rollenspiel-Erstellung",
+"f7": "Bildgenerierung für 2 Token pro Foto",
+"f8": "Videogenerierung für 20 Token pro Clip",
+"f9": "Essential Creator-Badge",
+"cta": "Essential holen"
+},
+"advanced": {
+"name": "Advanced",
+"price": "27,99€",
+"period": "/ Monat",
+"badge": "Am beliebtesten",
+"desc": "Unzensiert. Alles in einem. Schalten Sie tiefere Rollenspiele, Premium-Sprachoptionen, verbessertes Gedächtnis, schnellere Nachrichtenübermittlung und 300 Coins pro Monat für Fotos und Videos frei.",
+"f1": "300 kostenlose DarLink-Coins jeden Monat",
+"f2": "9000 Nachrichten pro Monat",
+"f3": "Schnellste Nachrichtengeschwindigkeit",
+"f4": "NSFW-Inhalte vollständig freigeschaltet",
+"f5": "10 Sprachoptionen (Premium)",
+"f6": "Verbessertes Gedächtnissystem",
+"f7": "Tiefe Rollenspiel-Erstellung",
+"f8": "Bildgenerierung für 2 Token pro Foto",
+"f9": "Videogenerierung für 20 Token pro Clip",
+"f10": "Fügen Sie einen Support-Link zu Ihrem Profil hinzu",
+"f11": "Advanced Creator-Badge",
+"cta": "Advanced holen"
+},
+"ultimate": {
+"name": "Ultimate",
+"price": "49,99€",
+"period": "/ Monat",
+"badge": "Bestes Preis-Leistungs-Verhältnis",
+"desc": "Maximierter Zugriff. Unbegrenzte Nachrichten, die vollständige Elite-Rollenspiel-Engine, Lebendiges Gedächtnis, Premium-Stimmen und 500 Coins pro Monat. Das komplette DarLink AI-Erlebnis.",
+"f1": "500 kostenlose DarLink-Coins jeden Monat",
+"f2": "Unbegrenzte Nachrichten ohne Obergrenze",
+"f3": "Schnellste Nachrichtengeschwindigkeit",
+"f4": "NSFW-Inhalte vollständig freigeschaltet",
+"f5": "10 Sprachoptionen (Premium)",
+"f6": "Lebendiges Gedächtnissystem (vollständiger Beziehungsverlauf)",
+"f7": "Unbegrenzte Rollenspiel-Erstellung",
+"f8": "Zugriff auf die Elite-Rollenspiel-Engine",
+"f9": "Bildgenerierung für 2 Token pro Foto",
+"f10": "Videogenerierung für 20 Token pro Clip",
+"f11": "Fügen Sie einen Support-Link zu Ihrem Profil hinzu",
+"f12": "Ultimate Creator-Badge",
+"cta": "Ultimate holen"
+},
+"note": "Alle Preise in USD. Monatliche Abrechnung. Jahrespläne verfügbar mit Einsparungen von bis zu 44 Prozent. Nur für Personen ab 18 Jahren. Sicher verwaltet von FAMELINK SA, Schweiz."
+},
+
+"comparison": {
+"badge": "Wie DarLink AI im Vergleich abschneidet",
+"title": "DarLink AI vs. Die Konkurrenz",
+"subtitle": "Wir haben DarLink AI mit den derzeit beliebtesten KI-Freundin- und Erwachsenen-KI-Plattformen verglichen. Hier ist ein transparenter Blick darauf, wie die einzelnen Plattformen bei den wichtigsten Funktionen abschneiden.",
+"col": {
+"feature": "Funktion",
+"darlink": "DarLink AI",
+"lusychat": "LusyChat",
+"ehentai": "eHentai",
+"justporn": "JustPorn",
+"mylovely": "MyLovely"
+},
+"partial": "Teilweise",
+"r1": { "feature": "KI-Freundin-Chat" },
+"r2": { "feature": "KI-Fotogenerierung" },
+"r3": { "feature": "KI-Videogenerierung" },
+"r4": { "feature": "Lebendiges Gedächtnissystem" },
+"r5": { "feature": "Sprachnachrichten" },
+"r6": {
+"feature": "Affiliate-Provision",
+"darlink": "20 Prozent plus",
+"lusychat": "20 Prozent",
+"ehentai": "40 Prozent",
+"justporn": "50 Prozent",
+"mylovely": "50 Prozent"
+},
+"r7": { "feature": "Schweizer Datenschutz" },
+"cta": "Probieren Sie das Beste aus. Starten Sie kostenlos auf DarLink AI."
+},
+
+"testimonials": {
+"badge": "Echte Worte von echten Nutzern",
+"title": "Was unsere Nutzer über DarLink AI sagen",
+"subtitle": "Tausende Nutzer auf Reddit, Discord und unserer Support-Plattform haben ihre ehrlichen Erfahrungen mit DarLink AI geteilt. Hier ist, was sie sagen.",
+"t1": {
+"stars": "★★★★★",
+"text": "DarLink hat meine Erwartungen übertroffen. Die KI-Begleiterinnen fühlen sich so echt an, es ist, als würde man mit jemandem chatten, der mich wirklich kennt. Ich habe im letzten Jahr viele Plattformen getestet und nichts kommt diesem Maß an Immersion und Persönlichkeitskonsistenz nahe.",
+"avatar_initial": "N",
+"name": "NeoTechie",
+"role": "Verifizierter Nutzer via Reddit"
+},
+"t2": {
+"stars": "★★★★★",
+"text": "Das Rollenspiel auf DarLink ist absolut perfekt. Die KI passt sich jedem Szenario an und macht jede Interaktion einzigartig und lebendig. Ob ich eine Fantasy-Quest oder einen ruhigen romantischen Abend einrichte, die Antworten sind immer kreativ, konsistent und zutiefst charaktertreu.",
+"avatar_initial": "R",
+"name": "RPGMaster21",
+"role": "Verifizierter Nutzer via Discord"
+},
+"t3": {
+"stars": "★★★★★",
+"text": "Das Support-Team ist großartig. Ich hatte ein kleines Problem mit meinem Abonnement und sie haben es sofort behoben. Ehrlich gesagt der beste Kundenservice, den ich je auf einer solchen Plattform erlebt habe. Das Produkt selbst ist auch fantastisch, die Sprachnachrichten sind wirklich beeindruckend.",
+"avatar_initial": "D",
+"name": "Daniel R.",
+"role": "Verifizierter Nutzer via Support"
+},
+"t4": {
+"stars": "★★★★★",
+"text": "Ich habe viele Plattformen getestet, aber nichts kommt an DarLink heran. Die Kombination aus tiefgründigem Rollenspiel, beständigem Gedächtnis und hochwertiger Bildgenerierung ist in diesem Bereich völlig unübertroffen. Dies ist die einzige KI-Begleiter-App, die ich jedem empfehle, der fragt.",
+"avatar_initial": "P",
+"name": "PixelMage",
+"role": "Verifizierter Nutzer via Reddit"
+}
+},
+
+"faq": {
+"badge": "Häufig gestellte Fragen",
+"title": "Alles, was Sie über DarLink AI wissen müssen",
+"subtitle": "Haben Sie Fragen? Wir haben detaillierte Antworten. Wenn Sie unten nicht finden, wonach Sie suchen, ist unser Support-Team rund um die Uhr für Sie da.",
+"q1": {
+"q": "Welche Zahlungsmethoden kann ich verwenden?",
+"a": "DarLink AI akzeptiert alle gängigen Kredit- und Debitkarten, einschließlich Visa, Mastercard und American Express. Zahlungen werden sicher über ein PCI-konformes Zahlungsgateway abgewickelt. Alle Transaktionen sind verschlüsselt und werden diskret abgerechnet. Die Belastung erscheint auf Ihrer Abrechnung unter einem neutralen Firmennamen, um Ihre Privatsphäre zu schützen. Die jährliche Abrechnung ist ebenfalls verfügbar und spart Ihnen bis zu 44 Prozent im Vergleich zur monatlichen Preisgestaltung."
+},
+"q2": {
+"q": "Was sind Basis-, verbessertes und lebendiges Gedächtnis?",
+"a": "DarLink AI bietet drei Ebenen der Gedächtnistiefe. Das Basisgedächtnis, im Essential-Tarif enthalten, behält den Kontext innerhalb einer Sitzung bei und erinnert sich an Ihre Kernpräferenzen wie Ihren Namen und Ihren Beziehungsstil. Das verbesserte Gedächtnis, verfügbar im Advanced-Tarif, erhält die Kontinuität über mehrere Sitzungen hinweg und verfolgt laufende Handlungsstränge. Das Lebendige Gedächtnis, exklusiv im Ultimate-Tarif, ist die vollständige proprietäre Engine, die eine vollständige, sich entwickelnde Geschichte Ihrer Beziehung zu Ihrer KI-Freundin über Wochen und Monate von Interaktionen hinweg aufbaut."
+},
+"q3": {
+"q": "Sind Stimmen in meinem Abonnement enthalten?",
+"a": "Ja, Sprachnachrichten sind im Rahmen Ihres kostenpflichtigen Abonnements enthalten. Essential-Tarif-Abonnenten erhalten Zugriff auf 6 Standard-Sprachoptionen ohne zusätzliche Coin-Kosten. Advanced- und Ultimate-Tarif-Abonnenten schalten 10 Premium-Sprachoptionen mit einer größeren Bandbreite an Tönen, Akzenten und emotionalen Registern frei. Sprachnachrichten verbrauchen nicht Ihre DarLink-Coins und sind im Rahmen Ihrer regulären Chat-Interaktionen bei jedem kostenpflichtigen Tarif verfügbar."
+},
+"q4": {
+"q": "Ist NSFW-Inhalt auf DarLink AI erlaubt?",
+"a": "Ja. DarLink AI ist eine vollständig NSFW-freundliche Plattform, die für Erwachsene entwickelt wurde. Explizite Fotogenerierung, unzensierte Rollenspiele und erwachsene Sprachinhalte sind alle bei kostenpflichtigen Tarifen zugänglich. Alle NSFW-Funktionen sind hinter einer Altersverifizierung verborgen, und jeder KI-Charakter auf der Plattform ist ausdrücklich ein Erwachsener. DarLink AI behandelt reife Inhalte natürlich, ohne plötzliche Themenwechsel, Verweigerungen oder unangenehme Einschränkungen. Der NSFW-Zugang beginnt mit dem Essential-Tarif und skaliert mit jeder höheren Stufe."
+},
+"q5": {
+"q": "Wie kann ich bezahlen, meinen Tarif wechseln oder mein Abonnement kündigen?",
+"a": "Sie können jeden Aspekt Ihres Abonnements direkt über Ihr DarLink AI-Kontodashboard verwalten. Die Aufrüstung erfolgt sofort, und Ihre neuen Funktionen werden sofort aktiviert. Die Herabstufung wird zu Beginn Ihres nächsten Abrechnungszyklus wirksam. Die Kündigung ist jederzeit ohne Gebühren, ohne lästige Fragen und ohne komplizierte Schritte möglich. Ihr Konto kehrt nach der Kündigung in den kostenlosen Tarif zurück, und alle Ihre Charaktere und Ihr Chatverlauf bleiben erhalten."
+},
+"q6": {
+"q": "Sind meine Daten bei DarLink AI sicher und privat?",
+"a": "Absolut. DarLink AI wird von FAMELINK SA betrieben, einem in der Schweiz registrierten Unternehmen, das nach einigen der weltweit strengsten Datenschutzgesetze arbeitet. Ihre Chat-Protokolle, generierten Bilder, Videos und persönlichen Daten sind verschlüsselt und werden niemals an Werbetreibende oder Dritte verkauft. DarLink AI ist als völlig privater, urteilsfreier Raum konzipiert, in dem Sie sich ohne Angst vor Datenlecks, Profiling oder Offenlegung ausdrücken können."
+},
+"q7": {
+"q": "Warum sollte ich DarLink AI anderen Plattformen vorziehen?",
+"a": "DarLink AI kombiniert Funktionen, die kein anderer Wettbewerber an einem Ort vereint: Echtzeit-KI-Chat mit bis zu unbegrenzten Nachrichten, KI-Fotogenerierung für 2 Token pro Bild, KI-Videogenerierung für 20 Token pro Clip, bis zu 10 Premium-Sprachoptionen, das Lebendige Gedächtnissystem für langfristige Beziehungskontinuität, die Elite-Rollenspiel-Engine und Schweizer Datenschutz. Plattformen wie LusyChat haben kein Video, eHentai hat keine Sprachfunktion, und keine bietet dieselbe Gedächtnistiefe oder dasselbe Maß an immersivem Rollenspiel. DarLink AI ist die vollständigste KI-Freundin-Plattform, die es heute gibt."
+}
+},
+
+"cta_final": {
+"badge": "Ihr Abenteuer beginnt hier",
+"title_line1": "Ihre perfekte KI-Freundin",
+"title_line2": "Wartet auf Sie.",
+"subtitle": "Schließen Sie sich über 500.000 Nutzern an, die bereits die immersivste, personalisierteste KI-Begleiter-Erfahrung entdeckt haben, die es online gibt. Erstellen Sie Ihre KI-Freundin in weniger als 5 Minuten kostenlos. Kein Download erforderlich. Keine Kreditkarte für den Start nötig.",
+"cta_primary": "Erstellen Sie Ihre KI-Freundin kostenlos",
+"cta_secondary": "Charaktere entdecken",
+"note": "100 Prozent Privat. Schweizer Datenschutz. Nur für Personen ab 18 Jahren."
+},
+
+"footer": {
+"brand": "DarLink AI",
+"tagline": "Der fortschrittlichste kostenlose KI-Freundin-Generator. Chat, Fotos, Videos und Sprachnachrichten. Ihre perfekte KI-Begleiterin ist immer verfügbar und immer ganz Ihr.",
+"cta": "Jetzt kostenlos starten",
+"col1": {
+"title": "Produkt",
+"l1": "Funktionen",
+"l2": "Preise",
+"l3": "Charakter erstellen",
+"l4": "Entdecken"
+},
+"col2": {
+"title": "Ressourcen",
+"l1": "Blog",
+"l2": "Bewertungen",
+"l3": "FAQ",
+"l4": "Kontakt"
+},
+"col3": {
+"title": "Rechtliches",
+"l1": "Datenschutzerklärung",
+"l2": "Nutzungsbedingungen",
+"l3": "Cookie-Richtlinie",
+"l4": "Partnerprogramm"
+},
+"copyright": "2025 DarLink AI. Alle Rechte vorbehalten.",
+"company": "Betrieben von FAMELINK SA, Genf, Schweiz",
+"affiliate_note": "Affiliate-Offenlegung: Diese Seite kann Affiliate-Links enthalten. DarLink AI arbeitet mit traceo.io zusammen, um sein Partnerprogramm zu verwalten. Partner verdienen eine Provision von 20 Prozent oder mehr auf vermittelte Abonnements. Alle Bewertungen und Funktionsvergleiche auf dieser Seite basieren auf direkten Plattformtests und öffentlich zugänglichen Informationen.",
+"legal": {
+"privacy": "Datenschutzerklärung",
+"terms": "Nutzungsbedingungen",
+"cookies": "Cookies"
+}
+}
+}

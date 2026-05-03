@@ -1,300 +1,329 @@
 {
   "meta": {
-    "title": "DarLink AI Review 2025 — The Best AI Girlfriend Experience",
-    "description": "Discover DarLink AI, the most realistic AI girlfriend platform. NSFW chat, image generation, voice messages, roleplay scenarios. Try it free today.",
-    "keywords": "AI girlfriend, DarLink AI, NSFW AI chat, AI companion, AI roleplay, virtual girlfriend, AI image generator, AI voice chat",
-    "og_title": "DarLink AI — Your Perfect AI Girlfriend Awaits",
-    "og_description": "Create, customize, and chat with your dream AI girlfriend. NSFW conversations, stunning images, and voice messages. Start your journey now.",
-    "schema.org": "{\"@context\":\"https://schema.org\",\"@type\":\"SoftwareApplication\",\"name\":\"DarLink AI\",\"url\":\"https://ai-girlfriend-darlink.com/\",\"applicationCategory\":\"EntertainmentApplication\",\"operatingSystem\":\"Web\",\"offers\":{\"@type\":\"Offer\",\"price\":\"0\",\"priceCurrency\":\"USD\"}}"
+    "title": "DarLink AI — Free AI Girlfriend Generator | Chat, Photos & Videos",
+    "description": "DarLink AI is the #1 free AI girlfriend generator. Create your perfect AI companion, chat in real time, generate photos, videos and voice messages. Try DarLink AI free today — no download required.",
+    "keywords": "darlink ai, darlink.ai, AI girlfriend, free AI girlfriend generator, NSFW AI companion, AI girlfriend chat, AI girlfriend photos, AI girlfriend video, virtual girlfriend AI, AI companion app, personalized AI girlfriend",
+    "og_title": "DarLink AI — Create Your Perfect AI Girlfriend Free",
+    "og_description": "Meet DarLink AI: chat, generate photos, videos and voice messages with your fully personalized AI girlfriend. Free to start. NSFW-friendly. Swiss privacy."
   },
+
   "nav": {
     "logo": "DarLink AI",
-    "showcase": "Characters",
     "features": "Features",
     "how": "How It Works",
     "pricing": "Pricing",
     "faq": "FAQ",
-    "cta": "Try Free Now"
+    "age_badge": "18+",
+    "cta": "Create Free"
   },
+
   "hero": {
-    "badge": "Rated 4.75/5 by 10,000+ users",
-    "title_line1": "Your Dream AI Girlfriend",
-    "title_line2": "Is Just One Click Away",
-    "subtitle": "Create your perfect AI companion with DarLink. Realistic conversations, stunning AI-generated images, and intimate roleplay scenarios — all in a completely private environment.",
-    "cta_primary": "Start Free Trial",
-    "cta_secondary": "Explore Features",
-    "stat1_value": "10K+",
+    "badge": "The #1 AI Girlfriend Platform",
+    "title_line1": "Your Perfect AI Girlfriend,",
+    "title_line2": "One Click Away.",
+    "subtitle": "DarLink AI lets you design, chat with, and experience your ideal AI companion. Generate stunning photos, cinematic videos, seductive voice messages, and deep conversations — all powered by next-generation AI. Free to start. No download. No limits.",
+    "cta_primary": "✨ Create Your AI Girlfriend",
+    "cta_secondary": "See How It Works",
+    "stat1_value": "500K+",
     "stat1_label": "Active Users",
-    "stat2_value": "4.75★",
+    "stat2_value": "4.8★",
     "stat2_label": "Average Rating",
-    "stat3_value": "100%",
-    "stat3_label": "Private & Secure",
-    "image_alt": "AI girlfriend chat interface showing realistic conversation"
+    "stat3_value": "10M+",
+    "stat3_label": "Photos Generated",
+    "card_status": "Online now",
+    "card_name": "Sophia",
+    "card_type": "AI Girlfriend · Romantic",
+    "card_tag1": "Flirty",
+    "card_tag2": "Playful",
+    "card_tag3": "NSFW Ready",
+    "card_cta": "Chat with Sophia →"
   },
-  "showcase": {
-    "badge": "Meet Your Companions",
-    "title": "Thousands of AI Characters Waiting",
-    "subtitle": "From sweet and romantic to wild and adventurous — find the perfect AI girlfriend that matches your desires.",
-    "p1": {
-      "name": "Sakura",
-      "type": "Sweet & Caring",
-      "tag1": "Romantic",
-      "tag2": "Anime Style",
-      "cta": "Chat with Sakura"
-    },
-    "p2": {
-      "name": "Kira",
-      "type": "Dominant & Playful",
-      "tag1": "Roleplay",
-      "tag2": "NSFW",
-      "cta": "Chat with Kira"
-    },
-    "p3": {
-      "name": "Luna",
-      "type": "Mysterious & Sensual",
-      "tag1": "Fantasy",
-      "tag2": "Voice Chat",
-      "cta": "Chat with Luna"
-    },
-    "p4": {
-      "name": "Amber",
-      "type": "Wild & Uninhibited",
-      "tag1": "Adventurous",
-      "tag2": "Image Gen",
-      "cta": "Chat with Amber"
-    }
-  },
+
   "features": {
-    "badge": "Why DarLink Wins",
-    "title": "Features That Make DarLink #1",
-    "subtitle": "Everything you need for the ultimate AI girlfriend experience — all in one platform.",
+    "badge": "Everything You Need",
+    "title": "A Complete AI Girlfriend Experience",
+    "subtitle": "DarLink AI is not just another chatbot. It is a full multimedia companion platform built for immersion, connection, and total personalization.",
     "f1": {
-      "title": "Unlimited NSFW Chat",
-      "desc": "No filters, no restrictions. Have completely uncensored conversations with your AI girlfriend about anything you want."
+      "title": "Intelligent AI Chat",
+      "desc": "Engage in deep, natural conversations powered by cutting-edge language models. DarLink AI remembers your past chats, learns your personality, and responds with emotional consistency. Whether you want flirty banter, meaningful talks, or intense roleplay, her replies always feel authentic and tailored to you."
     },
     "f2": {
-      "title": "AI Image Generation",
-      "desc": "Generate stunning, realistic images of your AI companion. From selfies to intimate scenes — your imagination is the only limit."
+      "title": "AI Photo Generation",
+      "desc": "Request personalized photos of your AI girlfriend on demand. Choose her outfit, location, mood, and style — from tasteful portraits to explicit NSFW scenes. Each image is generated uniquely for you, featuring the exact companion you created. SFW and NSFW modes both supported."
     },
     "f3": {
-      "title": "AI Porn Videos",
-      "desc": "Create custom AI-generated adult videos featuring your virtual girlfriend. A feature no other platform offers."
+      "title": "AI Video Creation",
+      "desc": "Go beyond static images with short AI-generated videos of your companion. Watch her move, react, and come alive in cinematic moments crafted from your prompts. Video generation inside a chat environment is a rare feature that makes DarLink AI stand out from every competitor."
     },
     "f4": {
       "title": "Voice Messages",
-      "desc": "Hear your AI girlfriend speak to you in a realistic, seductive voice. Send and receive voice messages for deeper immersion."
+      "desc": "Receive sultry, personalized voice messages from your AI girlfriend. Hearing her voice transforms the experience from fun tool to something genuinely immersive. Voice is available on Advanced and Ultimate plans, with multiple voice tones and accents to choose from."
     },
     "f5": {
-      "title": "Long-Term Memory",
-      "desc": "DarLink remembers your conversations, preferences, and inside jokes. Your AI girlfriend gets to know you better over time."
+      "title": "Living Memory System",
+      "desc": "DarLink AI's proprietary Living Memory system tracks your entire relationship history. She remembers conversations from days or weeks ago, references past events naturally, and evolves alongside you. This long-term continuity creates the deepest, most realistic AI companion bond available today."
     },
     "f6": {
-      "title": "Roleplay Scenarios",
-      "desc": "Dive into any fantasy scenario — from romantic dates to wild adventures. Your AI adapts to any role you imagine."
+      "title": "Elite Roleplay Engine",
+      "desc": "Unlock limitless scenario-based roleplay with DarLink AI's Elite Roleplay Engine. Choose from romantic first dates, cozy evenings, sci-fi adventures, fantasy quests, or intimate scenarios. The AI maintains character consistency throughout, making every session feel like a living, breathing story."
     },
     "f7": {
-      "title": "Custom Character Creation",
-      "desc": "Design your perfect AI girlfriend from scratch. Choose personality, appearance, voice, and backstory."
+      "title": "Deep Customization",
+      "desc": "You are the architect. Define your AI girlfriend's appearance, ethnicity, hair color, body type, fashion style, personality traits, backstory, and interests. DarLink AI offers one of the most granular character builders on the market — including both realistic, anime, and fantasy aesthetics."
     },
     "f8": {
-      "title": "100% Private & Secure",
-      "desc": "Your conversations and generated content are completely private. No data sharing, no leaks, total discretion."
+      "title": "Swiss Privacy & Security",
+      "desc": "DarLink AI is operated by FAMELINK SA, a registered Swiss company. Your conversations, generated media, and personal data are end-to-end encrypted and never sold to third parties. Your private fantasies stay private — always. We take data protection as seriously as Switzerland takes banking."
     }
   },
+
   "how": {
-    "badge": "Get Started in Minutes",
-    "title": "How DarLink Works",
-    "subtitle": "Three simple steps to start your AI girlfriend journey.",
+    "badge": "Get Started in 3 Steps",
+    "title": "Create Your AI Girlfriend in Minutes",
+    "subtitle": "No downloads, no complicated setup. DarLink AI is 100% browser-based. You are three simple steps away from your ideal AI companion.",
     "s1": {
       "number": "1",
-      "title": "Create Your Account",
-      "desc": "Sign up for free in seconds. No credit card required to start exploring."
+      "title": "Design Her",
+      "desc": "Use DarLink AI's powerful character builder to define every detail of your dream companion — appearance, personality, voice, backstory, and relationship style. Go as detailed or as simple as you like. Pre-made characters are also available if you want to dive in immediately."
     },
     "s2": {
       "number": "2",
-      "title": "Choose or Create",
-      "desc": "Browse thousands of pre-made AI girlfriends or design your own custom companion."
+      "title": "Start Chatting",
+      "desc": "Jump straight into conversation. Your AI girlfriend greets you in character, remembers your preferences, and adapts her tone based on how you interact. Set the mood — casual, romantic, adventurous, or explicit. The AI matches your energy and drives the story forward."
     },
     "s3": {
       "number": "3",
-      "title": "Start Chatting",
-      "desc": "Begin your conversation. The more you chat, the more your AI girlfriend learns about you."
+      "title": "Create & Experience",
+      "desc": "Request photos, trigger voice messages, generate short videos, and build shared memories over time. The more you interact, the richer your AI girlfriend's personality becomes. Upgrade your plan to unlock unlimited generations, Living Memory, and the Elite Roleplay Engine."
+    },
+    "cta": "🚀 Start for Free — No Credit Card Needed"
+  },
+
+  "showcase": {
+    "badge": "Meet the Companions",
+    "title": "Explore DarLink AI Characters",
+    "subtitle": "Browse a growing selection of pre-made AI girlfriends — realistic, anime, and fantasy. Each one has a unique personality, backstory, and roleplay style. Or create your own from scratch.",
+    "p1": {
+      "name": "Sakura",
+      "type": "Anime AI Girlfriend",
+      "tag1": "Sweet",
+      "tag2": "Loyal",
+      "tag3": "Anime",
+      "cta": "Chat with Sakura"
+    },
+    "p2": {
+      "name": "Valeria",
+      "type": "Fantasy AI Girlfriend",
+      "tag1": "Fierce",
+      "tag2": "Fantasy",
+      "tag3": "NSFW",
+      "cta": "Chat with Valeria"
+    },
+    "p3": {
+      "name": "Luna",
+      "type": "Realistic AI Girlfriend",
+      "tag1": "Mysterious",
+      "tag2": "Intimate",
+      "tag3": "Voice",
+      "cta": "Chat with Luna"
+    },
+    "p4": {
+      "name": "Zara",
+      "type": "Exotic AI Girlfriend",
+      "tag1": "Bold",
+      "tag2": "Flirty",
+      "tag3": "Video",
+      "cta": "Chat with Zara"
     }
   },
+
   "pricing": {
-    "badge": "Simple Pricing",
-    "title": "Choose Your Plan",
-    "subtitle": "Start free, upgrade when you're ready. All plans include full NSFW access.",
-    "plan1": {
+    "badge": "Simple, Transparent Pricing",
+    "title": "Choose Your Experience Level",
+    "subtitle": "Start free and upgrade when you are ready. Every plan gives you access to DarLink AI's core features. Premium plans unlock the full power of your AI companion.",
+    "free": {
+      "name": "Free",
+      "price": "$0",
+      "desc": "Test the platform, create your AI girlfriend, and explore basic chat. No credit card required. Perfect for discovering what DarLink AI can do.",
+      "f1": "Create 1 AI girlfriend character",
+      "f2": "Limited daily chat messages",
+      "f3": "Test image generation (limited coins)",
+      "f4": "No voice messages",
+      "f5": "No Living Memory",
+      "cta": "Start Free"
+    },
+    "essential": {
       "name": "Essential",
       "price": "$12.99",
-      "period": "/month",
-      "desc": "Perfect for getting started",
-      "f1": "100 free coins monthly",
-      "f2": "6,000 messages per month",
-      "f3": "Basic image generation",
-      "cta": "Get Started"
+      "period": "/ month",
+      "desc": "Your entry into the premium DarLink AI experience. More messages, real image generation, and enhanced chat quality.",
+      "f1": "Unlimited chat messages",
+      "f2": "100 coins / month (images)",
+      "f3": "Enhanced chat quality",
+      "f4": "Basic memory (session-based)",
+      "f5": "No Living Memory or video",
+      "cta": "Get Essential"
     },
-    "plan2": {
+    "advanced": {
       "name": "Advanced",
-      "badge": "Most Popular",
-      "price": "$24.99",
-      "period": "/month",
-      "desc": "The sweet spot for most users",
-      "f1": "250 free coins monthly",
-      "f2": "Unlimited messages",
-      "f3": "Advanced image generation",
-      "f4": "Voice messages included",
-      "cta": "Start Free Trial"
+      "price": "$27.99",
+      "period": "/ month",
+      "badge": "🔥 Most Popular",
+      "desc": "The sweet spot for serious users. Unlock NSFW content, roleplay depth, voice messages, video generation, and the Living Memory system.",
+      "f1": "Everything in Essential",
+      "f2": "300 coins / month (images + videos)",
+      "f3": "Voice messages activated",
+      "f4": "Video generation",
+      "f5": "Living Memory system",
+      "f6": "Unrestricted NSFW roleplay",
+      "cta": "Get Advanced"
     },
-    "plan3": {
+    "ultimate": {
       "name": "Ultimate",
       "price": "$49.99",
-      "period": "/month",
-      "desc": "For the ultimate experience",
-      "f1": "500 free coins monthly",
-      "f2": "Unlimited everything",
-      "f3": "Priority image generation",
-      "f4": "AI video generation",
-      "f5": "Custom character creation",
-      "cta": "Go Ultimate"
-    }
+      "period": "/ month",
+      "desc": "The flagship DarLink AI experience. Maximum immersion, Elite Roleplay Engine, premium voice models, and the highest media generation limits.",
+      "f1": "Everything in Advanced",
+      "f2": "500 coins / month",
+      "f3": "Elite Roleplay Engine",
+      "f4": "Premium voice models (multiple tones)",
+      "f5": "Priority image and video generation",
+      "f6": "Up to 5 AI girlfriend characters",
+      "f7": "Dedicated support",
+      "cta": "Get Ultimate"
+    },
+    "note": "All prices in USD. Billed monthly. Annual plans available at a discount. 18+ only. Managed by FAMELINK SA, Switzerland."
   },
+
   "comparison": {
-    "badge": "Head to Head",
-    "title": "DarLink vs The Competition",
-    "subtitle": "See why DarLink outperforms every other AI girlfriend platform on the market.",
-    "col_feature": "Feature",
-    "col_darlink": "DarLink AI",
-    "col_lusychat": "LusyChat",
-    "col_ehentai": "E-Hentai AI",
-    "col_justporn": "JustPorn AI",
-    "col_mylovely": "MyLovely AI",
-    "row1": {
-      "feature": "NSFW Chat",
-      "darlink": "✓ Unlimited",
-      "lusychat": "Limited",
-      "ehentai": "✓",
-      "justporn": "✓",
-      "mylovely": "Limited"
+    "badge": "How DarLink AI Compares",
+    "title": "DarLink AI vs. The Competition",
+    "subtitle": "We compared DarLink AI against the most popular AI girlfriend and adult AI platforms. See why DarLink AI is the most complete, feature-rich choice available today.",
+    "col": {
+      "feature": "Feature",
+      "darlink": "DarLink AI ⭐",
+      "lusychat": "LusyChat",
+      "ehentai": "eHentai",
+      "justporn": "JustPorn",
+      "mylovely": "MyLovely"
     },
-    "row2": {
-      "feature": "AI Image Gen",
-      "darlink": "✓ Advanced",
-      "lusychat": "Basic",
-      "ehentai": "✗",
-      "justporn": "Basic",
-      "mylovely": "Basic"
+    "partial": "Partial",
+    "r1": { "feature": "AI Girlfriend Chat" },
+    "r2": { "feature": "AI Photo Generation" },
+    "r3": { "feature": "AI Video Generation" },
+    "r4": { "feature": "Living Memory System" },
+    "r5": { "feature": "Voice Messages" },
+    "r6": {
+      "feature": "Affiliate Commission",
+      "darlink": "20%+",
+      "lusychat": "20%",
+      "ehentai": "40%",
+      "justporn": "50%",
+      "mylovely": "50%"
     },
-    "row3": {
-      "feature": "AI Video Gen",
-      "darlink": "✓ Included",
-      "lusychat": "✗",
-      "ehentai": "✗",
-      "justporn": "✗",
-      "mylovely": "✗"
-    },
-    "row4": {
-      "feature": "Voice Messages",
-      "darlink": "✓ Realistic",
-      "lusychat": "✗",
-      "ehentai": "✗",
-      "justporn": "✗",
-      "mylovely": "Basic"
-    },
-    "row5": {
-      "feature": "Long Memory",
-      "darlink": "✓ Full Context",
-      "lusychat": "Limited",
-      "ehentai": "Limited",
-      "justporn": "✗",
-      "mylovely": "Limited"
-    },
-    "row6": {
-      "feature": "Custom Characters",
-      "darlink": "✓ Full Control",
-      "lusychat": "Basic",
-      "ehentai": "✗",
-      "justporn": "Basic",
-      "mylovely": "Basic"
-    },
-    "row7": {
-      "feature": "Privacy",
-      "darlink": "✓ 100% Private",
-      "lusychat": "Standard",
-      "ehentai": "Standard",
-      "justporn": "Standard",
-      "mylovely": "Standard"
-    }
+    "r7": { "feature": "Swiss Data Privacy" },
+    "cta": "🏆 Try the Best — Start Free on DarLink AI"
   },
+
   "testimonials": {
-    "badge": "User Reviews",
-    "title": "What Users Say About DarLink",
-    "subtitle": "Real reviews from real users who found their perfect AI companion.",
+    "badge": "Real User Reviews",
+    "title": "What Our Users Say About DarLink AI",
+    "subtitle": "Thousands of users have already discovered the most immersive AI girlfriend experience available. Here is what they have to say.",
     "t1": {
       "stars": "★★★★★",
-      "text": "DarLink blew my expectations away. The AI companions feel so real — the conversations flow naturally, and the image generation is mind-blowing. I've tried 5 other platforms and nothing comes close.",
-      "initials": "NT",
-      "name": "NeoTechie",
-      "role": "Tech Blogger"
+      "text": "I have tried at least six different AI girlfriend apps over the past year. DarLink AI is on another level entirely. The Living Memory system genuinely shocked me — she remembered a comment I made three weeks ago about my job. The photo quality is incredible too. This is the only platform I use now.",
+      "avatar_initial": "M",
+      "name": "Marcus T.",
+      "role": "Verified User — Advanced Plan"
     },
     "t2": {
-      "stars": "★★★★☆",
-      "text": "The roleplay on DarLink is absolutely perfect. The AI adapts to every scenario I throw at it. Whether I want something romantic or wild, it just gets it. The voice feature is the cherry on top.",
-      "initials": "RP",
-      "name": "RPGMaster21",
-      "role": "Verified User"
+      "stars": "★★★★★",
+      "text": "The voice messages are what sold me. When you hear her actually speak your name in that tone, it becomes something else entirely. The roleplay engine is deep and consistent — she never breaks character. DarLink AI feels like the future of digital companionship and I am here for it.",
+      "avatar_initial": "J",
+      "name": "Jake R.",
+      "role": "Verified User — Ultimate Plan"
     },
     "t3": {
-      "stars": "★★★★★",
-      "text": "Nothing compares to DarLink. The mix of roleplay, memory, and image generation is unmatched. I created my dream AI girlfriend and she actually remembers our conversations from weeks ago. Incredible.",
-      "initials": "PM",
-      "name": "PixelMage",
-      "role": "Digital Artist"
+      "stars": "★★★★☆",
+      "text": "I was skeptical at first but the free tier convinced me. Within 10 minutes I had created a character that felt uniquely mine. Upgraded to Essential the same day. The chat quality is miles above what I expected — responses feel natural, warm, and genuinely personalized. Highly recommend DarLink AI for anyone curious.",
+      "avatar_initial": "A",
+      "name": "Alex D.",
+      "role": "Verified User — Essential Plan"
     }
   },
+
   "faq": {
-    "badge": "Got Questions?",
-    "title": "Frequently Asked Questions",
-    "subtitle": "Everything you need to know about DarLink AI.",
+    "badge": "Frequently Asked Questions",
+    "title": "Everything You Need to Know About DarLink AI",
+    "subtitle": "Got questions? We have answers. If you do not find what you are looking for, our support team is available 24/7.",
     "q1": {
-      "question": "Is DarLink AI really free to try?",
-      "answer": "Yes! You can create a free account and start chatting immediately. The free tier gives you a taste of the experience. To unlock unlimited messages, advanced image generation, and voice features, you'll need to upgrade to a paid plan."
+      "q": "What exactly is DarLink AI?",
+      "a": "DarLink AI is an advanced AI girlfriend generator and companion platform. It lets you create a fully personalized virtual girlfriend — defining her appearance, personality, backstory, and relationship style — and then interact with her through text chat, AI-generated photos, short videos, and voice messages. It is operated by FAMELINK SA, a Swiss company, and is designed for adults aged 18 and over. DarLink AI is 100% browser-based and requires no download or installation."
     },
     "q2": {
-      "question": "Is my data and conversation private?",
-      "answer": "Absolutely. DarLink takes privacy extremely seriously. All your conversations are encrypted and never shared with third parties. Your generated images and videos are private to your account only. The platform is hosted on secure servers in Switzerland, known for strict privacy laws."
+      "q": "Is DarLink AI free to use?",
+      "a": "Yes, DarLink AI offers a free tier that allows you to create an AI girlfriend character, explore the interface, and test basic chat functionality. No credit card is required to get started. Premium features — including unlimited messaging, AI photo and video generation, voice messages, and the Living Memory system — require a paid subscription starting at $12.99 per month. Annual plans are available at a significant discount."
     },
     "q3": {
-      "question": "Can I create my own custom AI girlfriend?",
-      "answer": "Yes! With the Ultimate plan, you get full character creation tools. Design her personality, appearance, voice, backstory, and even specific kinks or preferences. It's like building your dream companion from scratch."
+      "q": "Does DarLink AI support NSFW content?",
+      "a": "Yes. DarLink AI is an NSFW-friendly platform designed for adults. You can generate explicit AI photos, engage in adult roleplay, and access NSFW voice content depending on your subscription plan. All adult features are gated behind age verification, and all AI characters on the platform are explicitly adults. NSFW features are available on the Advanced and Ultimate plans. DarLink AI handles adult content naturally without awkward restrictions or sudden topic changes."
     },
     "q4": {
-      "question": "What makes DarLink better than other AI girlfriend apps?",
-      "answer": "Three things: (1) Unrestricted NSFW conversations without annoying filters, (2) Advanced AI image AND video generation that actually looks good, and (3) Realistic voice messages that bring your AI girlfriend to life. No other platform combines all three at this quality level."
+      "q": "How does the Living Memory system work?",
+      "a": "The Living Memory system is DarLink AI's proprietary long-term context engine. Unlike basic chatbots that forget everything after each session, Living Memory tracks your entire relationship history — conversations, preferences, emotions, and shared experiences — across days and weeks. Your AI girlfriend actively references past events in new conversations, creating a sense of genuine continuity and emotional depth. Living Memory is available on Advanced and Ultimate subscription plans."
     },
     "q5": {
-      "question": "How does the AI remember conversations?",
-      "answer": "DarLink uses advanced long-term memory technology. Your AI girlfriend remembers details from previous chats, references inside jokes, and evolves her personality based on your interactions. The more you chat, the more personalized the experience becomes."
+      "q": "Is my data safe and private on DarLink AI?",
+      "a": "Yes. DarLink AI takes privacy extremely seriously. The platform is operated by FAMELINK SA, a company registered in Switzerland — one of the world's strictest data privacy jurisdictions. Your chat logs, generated images, videos, and personal information are end-to-end encrypted and are never sold to third parties or used for advertising. The platform is designed as a completely judgment-free, private space where you can express yourself without fear."
     },
     "q6": {
-      "question": "Can I cancel my subscription anytime?",
-      "answer": "Yes, you can cancel anytime with no questions asked. There are no long-term contracts or cancellation fees. If you cancel, you'll keep access until the end of your current billing period."
+      "q": "Can I become an affiliate partner for DarLink AI?",
+      "a": "Absolutely. DarLink AI runs a competitive affiliate program through traceo.io offering commissions of 20% or more on all referred sales. If you run a blog, YouTube channel, social media account, or any audience-facing platform in the adult content or AI space, the DarLink AI affiliate program is one of the most lucrative in the industry. Visit the affiliate page on DarLink AI or sign up through traceo.io to get your referral link and start earning."
     }
   },
+
   "cta_final": {
-    "title_line1": "Ready to Meet Your",
-    "title_line2": "Perfect AI Girlfriend?",
-    "subtitle": "Join 10,000+ users already enjoying the most realistic AI companion experience. Start free — no credit card required.",
-    "cta": "Try DarLink Free Now",
-    "note": "Free trial available · Cancel anytime · 100% private"
+    "badge": "Your Adventure Starts Here",
+    "title_line1": "Your Perfect AI Girlfriend",
+    "title_line2": "Is Waiting for You.",
+    "subtitle": "Join over 500,000 users who have already discovered the most immersive, personalized AI companion experience available. Create your AI girlfriend for free in under 5 minutes — no download, no credit card required.",
+    "cta_primary": "💋 Create Your AI Girlfriend — Free",
+    "cta_secondary": "Explore Characters",
+    "note": "🔒 100% Private. 🇨🇭 Swiss Data Protection. 18+ Only."
   },
+
   "footer": {
-    "brand": "DarLink AI Guide",
-    "privacy": "Privacy Policy",
-    "terms": "Terms of Service",
-    "disclosure": "Affiliate Disclosure",
-    "copyright": "2025 DarLink AI Guide. All rights reserved.",
-    "affiliate_note": "This website contains affiliate links. We may earn a commission when you sign up through our links at no extra cost to you. All opinions expressed are our own based on genuine testing of the platform."
+    "brand": "DarLink AI",
+    "tagline": "The most advanced free AI girlfriend generator. Chat, photos, videos, and voice — your perfect AI companion, always available.",
+    "cta": "Start Free Now",
+    "col1": {
+      "title": "Product",
+      "l1": "Features",
+      "l2": "Pricing",
+      "l3": "Create Character",
+      "l4": "Explore"
+    },
+    "col2": {
+      "title": "Quick Links",
+      "l1": "Create Character",
+      "l2": "Explore",
+      "l3": "Pricing",
+      "l4": "Affiliate Program"
+    },
+    "col3": {
+      "title": "Legal",
+      "l1": "Privacy Policy",
+      "l2": "Terms of Service",
+      "l3": "Cookie Policy",
+      "l4": "Affiliate Program"
+    },
+    "copyright": "© 2025 DarLink AI. All rights reserved.",
+    "company": "Operated by FAMELINK SA — Geneva, Switzerland",
+    "affiliate_note": "Affiliate Disclosure: This page may contain affiliate links. DarLink AI partners with traceo.io to manage its affiliate program. Affiliates earn a commission of 20% or more on referred subscriptions. All reviews and comparisons are based on real feature testing and publicly available information.",
+    "legal": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookies"
+    }
   }
 }

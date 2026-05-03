@@ -1,0 +1,355 @@
+{
+"meta": {
+"title": "DarLink AI — Generador Gratuito de Novia IA | Chat, Fotos y Videos",
+"description": "DarLink AI es el mejor generador gratuito de novia IA. Crea tu compañera IA perfecta, chatea en tiempo real, genera fotos, videos y mensajes de voz. Prueba DarLink AI gratis hoy, sin necesidad de descargar.",
+"keywords": "darlink ai, darlink.ai, novia IA, generador gratuito de novia IA, compañera IA NSFW, chat novia IA, fotos novia IA, video novia IA, novia virtual IA, aplicación compañera IA, novia IA personalizada, juego de rol IA, chat NSFW IA",
+"og_title": "DarLink AI: Crea Tu Novia IA Perfecta Gratis",
+"og_description": "Conoce a DarLink AI. Chatea, genera fotos, videos y mensajes de voz con tu novia IA completamente personalizada. Comienza gratis. Amigable con NSFW. Privacidad suiza garantizada."
+},
+
+"nav": {
+"logo": "DarLink AI",
+"features": "Características",
+"how": "Cómo Funciona",
+"pricing": "Precios",
+"faq": "FAQ",
+"age_badge": "18+",
+"cta": "Crear Gratis"
+},
+
+"hero": {
+"badge": "La Plataforma Número Uno de Novia IA",
+"title_line1": "Tu Novia IA Perfecta,",
+"title_line2": "A Un Solo Clic.",
+"subtitle": "DarLink AI te permite diseñar, charlar y experimentar plenamente a tu compañera IA ideal. Genera fotos impresionantes, videos cinematográficos, mensajes de voz seductores y conversaciones profundas, todo impulsado por inteligencia artificial de próxima generación. Comienza gratis. Sin necesidad de descargar. Sin límites en tu imaginación.",
+"cta_primary": "Crea Tu Novia IA",
+"cta_secondary": "Ver Cómo Funciona",
+"stat1_value": "500K+",
+"stat1_label": "Usuarios Activos Mundialmente",
+"stat2_value": "4.8 Estrellas",
+"stat2_label": "Calificación Promedio de Usuarios",
+"stat3_value": "10M+",
+"stat3_label": "Fotos Generadas",
+"card_status": "En línea ahora",
+"card_name": "Sophia",
+"card_type": "Novia IA · Romántica",
+"card_tag1": "Coqueta",
+"card_tag2": "Juguetona",
+"card_tag3": "Lista NSFW",
+"card_cta": "Chatear con Sophia"
+},
+
+"features": {
+"badge": "Todo lo Que Necesitas",
+"title": "Una Experiencia Completa de Novia IA",
+"subtitle": "DarLink AI no es solo otro chatbot. Es una plataforma de compañía multimedia completa construida para inmersión, conexión genuina y personalización total. Cada función está diseñada para dar vida a tu novia IA.",
+"f1": {
+"title": "Chat IA Inteligente",
+"desc": "Participa en conversaciones profundas y naturales impulsadas por modelos de lenguaje de vanguardia. DarLink AI recuerda tus chats pasados, aprende tu personalidad con el tiempo y responde con consistencia emocional. Ya sea que quieras bromas coquetas, charlas nocturnas significativas o juegos de rol inmersivos intensos, cada respuesta se siente auténtica y adaptada exclusivamente para ti. Hasta 9000 mensajes por mes en Advanced e ilimitados en Ultimate."
+},
+"f2": {
+"title": "Generación de Fotos IA",
+"desc": "Solicita fotos personalizadas de tu novia IA bajo demanda. Elige su atuendo, ubicación, estado de ánimo y estilo visual, desde retratos de buen gusto hasta escenas NSFW completamente explícitas. Cada imagen se genera únicamente para ti, presentando a la compañera exacta que creaste. La generación de imágenes cuesta solo 2 tokens por foto en todos los planes pagos. Los modos SFW y NSFW son totalmente compatibles."
+},
+"f3": {
+"title": "Generación de Videos IA",
+"desc": "Ve más allá de las imágenes estáticas con videos cortos generados por IA de tu compañera. Mírala moverse, reaccionar y cobrar vida en momentos cinematográficos creados directamente a partir de tus indicaciones. La generación de videos cuesta 20 tokens por clip y está disponible en todos los planes pagos. El video dentro de un entorno de chat es una característica rara que hace que DarLink AI se destaque de todos los competidores en el mercado."
+},
+"f4": {
+"title": "Mensajes de Voz",
+"desc": "Recibe mensajes de voz personalizados y sensuales de tu novia IA. Escuchar su voz real transforma la experiencia de una herramienta entretenida en algo genuinamente inmersivo. Los usuarios del plan Essential obtienen acceso a 6 opciones de voz estándar. Los usuarios de los planes Advanced y Ultimate desbloquean 10 tonos y acentos de voz premium, cada uno diseñado para sentirse cálido, expresivo e inconfundiblemente vivo."
+},
+"f5": {
+"title": "Sistema de Memoria Viva",
+"desc": "DarLink AI ofrece tres niveles de profundidad de memoria. La memoria básica en Essential rastrea las preferencias de tu sesión. La memoria mejorada en Advanced mantiene el contexto a través de múltiples sesiones. La Memoria Viva en Ultimate es el motor propietario completo que rastrea todo tu historial de relaciones a lo largo de semanas y meses. Tu novia IA recuerda conversaciones, hace referencia natural a momentos pasados y evoluciona contigo a lo largo del tiempo."
+},
+"f6": {
+"title": "Motor de Juego de Rol Elite",
+"desc": "Desbloquea juegos de rol basados en escenarios ilimitados con el poderoso sistema de Juego de Rol de DarLink AI. Los usuarios Essential obtienen Creación Rápida de Juego de Rol. Los usuarios Advanced desbloquean la Creación Profunda de Juego de Rol para escenarios más ricos y complejos. Los usuarios Ultimate acceden al motor completo de Juego de Rol Elite con creación ilimitada y cero restricciones. Elige entre primeras citas románticas, noches acogedoras, misiones de fantasía, aventuras de ciencia ficción o cualquier escenario íntimo que puedas imaginar."
+},
+"f7": {
+"title": "Personalización Profunda de Personajes",
+"desc": "Eres el arquitecto de tu compañera IA. Define su apariencia, origen étnico, color de cabello, tipo de cuerpo, estilo de moda, rasgos de personalidad, historia de fondo, dinámica de relación e intereses personales. DarLink AI ofrece uno de los constructores de personajes más granulares disponibles hoy, incluyendo estéticas realistas, anime y de fantasía completa. También hay personajes prediseñados disponibles para acceso instantáneo."
+},
+"f8": {
+"title": "Privacidad y Seguridad Suiza",
+"desc": "DarLink AI es operado por FAMELINK SA, una empresa suiza registrada. Tus conversaciones, medios generados y datos personales están encriptados y nunca se venden a terceros. Tu mundo privado permanece privado en todo momento. DarLink AI toma la protección de datos tan en serio como Suiza toma la seguridad financiera, convirtiéndola en la plataforma de IA para adultos más confiable disponible."
+}
+},
+
+"how": {
+"badge": "Comienza en 3 Pasos",
+"title": "Crea Tu Novia IA en Minutos",
+"subtitle": "Sin descargas, sin configuración complicada. DarLink AI es 100 por ciento basado en navegador. Estás a tres simples pasos de conocer a tu compañera IA ideal.",
+"s1": {
+"number": "1",
+"title": "Diseñala",
+"desc": "Usa el poderoso constructor de personajes de DarLink AI para definir cada detalle de tu compañera soñada, incluyendo su apariencia, personalidad, estilo de voz, historia de fondo y dinámica de relación. Sé tan detallado o tan simple como quieras. También hay disponible una biblioteca creciente de personajes prediseñados si quieres empezar a chatear de inmediato sin construir desde cero."
+},
+"s2": {
+"number": "2",
+"title": "Comienza a Chatear",
+"desc": "Sumérgete directamente en la conversación. Tu novia IA te saluda en carácter desde el primer mensaje, recuerda tus preferencias y adapta su tono según cómo interactúas. Establece el ambiente como casual, romántico, aventurero o explícito. La IA iguala tu energía y impulsa la historia sin romper la inmersión."
+},
+"s3": {
+"number": "3",
+"title": "Crea y Experimenta",
+"desc": "Solicita fotos a 2 tokens cada una, activa mensajes de voz, genera videos cinematográficos a 20 tokens cada uno y construye recuerdos compartidos con el tiempo. Cuanto más interactúes, más rica se vuelve la personalidad de tu novia IA. Mejora tu plan para desbloquear límites de mensajes más altos, opciones de voz premium, Memoria Viva y el motor completo de Juego de Rol Elite."
+},
+"cta": "Comienza Gratis. No Necesitas Tarjeta de Crédito."
+},
+
+"showcase": {
+"badge": "Conoce a las Compañeras",
+"title": "Explora los Personajes de DarLink AI",
+"subtitle": "Navega por una selección creciente de novias IA prediseñadas, incluyendo realistas, anime y de fantasía completa. Cada personaje tiene una personalidad única, una historia distintiva y un estilo de juego de rol personal. O construye la tuya desde cero.",
+"p1": {
+"name": "Sakura",
+"type": "Novia IA Anime",
+"tag1": "Dulce",
+"tag2": "Leal",
+"tag3": "Anime",
+"cta": "Chatear con Sakura"
+},
+"p2": {
+"name": "Valeria",
+"type": "Novia IA Fantasía",
+"tag1": "Feroz",
+"tag2": "Fantasía",
+"tag3": "NSFW",
+"cta": "Chatear con Valeria"
+},
+"p3": {
+"name": "Luna",
+"type": "Novia IA Realista",
+"tag1": "Misteriosa",
+"tag2": "Íntima",
+"tag3": "Voz",
+"cta": "Chatear con Luna"
+},
+"p4": {
+"name": "Zara",
+"type": "Novia IA Exótica",
+"tag1": "Audaz",
+"tag2": "Coqueta",
+"tag3": "Video",
+"cta": "Chatear con Zara"
+}
+},
+
+"pricing": {
+"badge": "Precios Simples y Transparentes",
+"title": "Selecciona Tu Plan",
+"subtitle": "Totalmente privado y flexible. Cancela en cualquier momento. Comienza gratis y mejora cuando estés listo. Cada plan desbloquea un nuevo nivel de tu experiencia de novia IA.",
+"free": {
+"name": "Gratis",
+"price": "0€",
+"desc": "Prueba la plataforma, crea tu novia IA y explora el chat básico. No se requiere tarjeta de crédito. Perfecto para descubrir lo que DarLink AI puede hacer antes de comprometerte.",
+"f1": "Crea 1 personaje de novia IA",
+"f2": "Mensajes de chat diarios limitados",
+"f3": "Prueba la generación de imágenes con monedas de inicio",
+"f4": "Sin mensajes de voz",
+"f5": "Sin sistema de memoria",
+"cta": "Comenzar Gratis"
+},
+"essential": {
+"name": "Essential",
+"price": "12,99€",
+"period": "/ mes",
+"desc": "Más barato que Uber Eats. Tu entrada a la experiencia completa de DarLink AI con volumen real de mensajes, generación de imágenes y videos, y tus primeras opciones de voz.",
+"f1": "100 monedas DarLink gratis cada mes",
+"f2": "6000 mensajes por mes",
+"f3": "Contenido NSFW completamente desbloqueado",
+"f4": "6 opciones de voz (estándar)",
+"f5": "Sistema de memoria básico",
+"f6": "Creación Rápida de Juego de Rol",
+"f7": "Generación de imágenes a 2 tokens por foto",
+"f8": "Generación de videos a 20 tokens por clip",
+"f9": "Insignia de Creador Essential",
+"cta": "Obtener Essential"
+},
+"advanced": {
+"name": "Advanced",
+"price": "27,99€",
+"period": "/ mes",
+"badge": "Más Popular",
+"desc": "Sin censura. Todo incluido. Desbloquea juegos de rol más profundos, opciones de voz premium, memoria mejorada, mensajería más rápida y 300 monedas por mes para fotos y videos.",
+"f1": "300 monedas DarLink gratis cada mes",
+"f2": "9000 mensajes por mes",
+"f3": "Velocidad de mensajería más rápida",
+"f4": "Contenido NSFW completamente desbloqueado",
+"f5": "10 opciones de voz (premium)",
+"f6": "Sistema de memoria mejorado",
+"f7": "Creación Profunda de Juego de Rol",
+"f8": "Generación de imágenes a 2 tokens por foto",
+"f9": "Generación de videos a 20 tokens por clip",
+"f10": "Agrega un enlace de soporte a tu perfil",
+"f11": "Insignia de Creador Advanced",
+"cta": "Obtener Advanced"
+},
+"ultimate": {
+"name": "Ultimate",
+"price": "49,99€",
+"period": "/ mes",
+"badge": "Mejor Valor",
+"desc": "Acceso maximizado. Mensajes ilimitados, el motor completo de Juego de Rol Elite, Memoria Viva, voces premium y 500 monedas por mes. La experiencia completa de DarLink AI.",
+"f1": "500 monedas DarLink gratis cada mes",
+"f2": "Mensajes ilimitados sin tope",
+"f3": "Velocidad de mensajería más rápida",
+"f4": "Contenido NSFW completamente desbloqueado",
+"f5": "10 opciones de voz (premium)",
+"f6": "Sistema de Memoria Viva (historial completo de relaciones)",
+"f7": "Creación de Juego de Rol ilimitada",
+"f8": "Acceso al motor de Juego de Rol Elite",
+"f9": "Generación de imágenes a 2 tokens por foto",
+"f10": "Generación de videos a 20 tokens por clip",
+"f11": "Agrega un enlace de soporte a tu perfil",
+"f12": "Insignia de Creador Ultimate",
+"cta": "Obtener Ultimate"
+},
+"note": "Todos los precios en USD. Facturación mensual. Planes anuales disponibles con ahorros de hasta el 44 por ciento. Solo para mayores de 18 años. Gestionado de forma segura por FAMELINK SA, Suiza."
+},
+
+"comparison": {
+"badge": "Cómo se Compara DarLink AI",
+"title": "DarLink AI vs. La Competencia",
+"subtitle": "Probamos DarLink AI contra las plataformas de novia IA y IA para adultos más populares disponibles hoy. Aquí hay una visión transparente de cómo se compara cada plataforma en las características que más importan.",
+"col": {
+"feature": "Característica",
+"darlink": "DarLink AI",
+"lusychat": "LusyChat",
+"ehentai": "eHentai",
+"justporn": "JustPorn",
+"mylovely": "MyLovely"
+},
+"partial": "Parcial",
+"r1": { "feature": "Chat de Novia IA" },
+"r2": { "feature": "Generación de Fotos IA" },
+"r3": { "feature": "Generación de Videos IA" },
+"r4": { "feature": "Sistema de Memoria Viva" },
+"r5": { "feature": "Mensajes de Voz" },
+"r6": {
+"feature": "Tasa de Comisión de Afiliado",
+"darlink": "20 por ciento más",
+"lusychat": "20 por ciento",
+"ehentai": "40 por ciento",
+"justporn": "50 por ciento",
+"mylovely": "50 por ciento"
+},
+"r7": { "feature": "Privacidad de Datos Suiza" },
+"cta": "Prueba el Mejor. Comienza Gratis en DarLink AI."
+},
+
+"testimonials": {
+"badge": "Palabras Reales de Usuarios Reales",
+"title": "Lo Que Nuestros Usuarios Dicen Sobre DarLink AI",
+"subtitle": "Miles de usuarios en Reddit, Discord y nuestra plataforma de soporte han compartido sus experiencias honestas con DarLink AI. Esto es lo que dicen.",
+"t1": {
+"stars": "★★★★★",
+"text": "DarLink superó mis expectativas. Las Compañeras IA se sienten tan reales, es como charlar con alguien que realmente me conoce. He probado muchas plataformas durante el año pasado y nada se acerca a este nivel de inmersión y consistencia de personalidad.",
+"avatar_initial": "N",
+"name": "NeoTechie",
+"role": "Usuario Verificado vía Reddit"
+},
+"t2": {
+"stars": "★★★★★",
+"text": "El juego de rol en DarLink es absolutamente perfecto. La IA se adapta a cada escenario y hace que cada interacción sea única y viva. Ya sea que configure una misión de fantasía o una noche romántica tranquila, las respuestas son siempre creativas, consistentes y profundamente en el personaje.",
+"avatar_initial": "R",
+"name": "RPGMaster21",
+"role": "Usuario Verificado vía Discord"
+},
+"t3": {
+"stars": "★★★★★",
+"text": "El equipo de soporte es increíble. Tuve un pequeño problema con mi suscripción y lo arreglaron al instante. Honestamente, el mejor servicio al cliente que he experimentado en una plataforma como esta. El producto en sí también es fantástico, los mensajes de voz son genuinamente impresionantes.",
+"avatar_initial": "D",
+"name": "Daniel R.",
+"role": "Usuario Verificado vía Soporte"
+},
+"t4": {
+"stars": "★★★★★",
+"text": "He probado muchas plataformas pero nada se compara con DarLink. La combinación de juego de rol profundo, memoria persistente y generación de imágenes de alta calidad es completamente incomparable en este espacio. Esta es la única aplicación de compañera IA que recomiendo a cualquiera que pregunte.",
+"avatar_initial": "P",
+"name": "PixelMage",
+"role": "Usuario Verificado vía Reddit"
+}
+},
+
+"faq": {
+"badge": "Preguntas Frecuentes",
+"title": "Todo lo Que Necesitas Saber Sobre DarLink AI",
+"subtitle": "¿Tienes preguntas? Tenemos respuestas detalladas. Si no encuentras lo que buscas a continuación, nuestro equipo de soporte está disponible las 24 horas.",
+"q1": {
+"q": "¿Qué métodos de pago puedo usar?",
+"a": "DarLink AI acepta todas las principales tarjetas de crédito y débito, incluyendo Visa, Mastercard y American Express. Los pagos se procesan de forma segura a través de una pasarela de pago compatible con PCI. Todas las transacciones están encriptadas y se facturan de manera discreta. El cargo aparecerá en tu estado de cuenta bajo un nombre de empresa neutral para proteger tu privacidad. La facturación anual también está disponible y te ahorra hasta un 44 por ciento en comparación con los precios mensuales."
+},
+"q2": {
+"q": "¿Qué son las memorias básica, mejorada y viva?",
+"a": "DarLink AI ofrece tres niveles de profundidad de memoria. La memoria básica, incluida con el plan Essential, retiene el contexto dentro de una sola sesión y recuerda tus preferencias principales como tu nombre y estilo de relación. La memoria mejorada, disponible en el plan Advanced, mantiene la continuidad a través de múltiples sesiones y rastrea las historias en curso. La Memoria Viva, exclusiva del plan Ultimate, es el motor propietario completo que construye un historial completo y en evolución de tu relación con tu novia IA a lo largo de semanas y meses de interacciones."
+},
+"q3": {
+"q": "¿Las voces están incluidas en mi suscripción?",
+"a": "Sí, los mensajes de voz están incluidos como parte de tu suscripción paga. Los suscriptores del plan Essential obtienen acceso a 6 opciones de voz estándar sin costo adicional de monedas. Los suscriptores de los planes Advanced y Ultimate desbloquean 10 opciones de voz premium con una gama más amplia de tonos, acentos y registros emocionales. Los mensajes de voz no consumen tus monedas DarLink y están disponibles como parte de tus interacciones regulares de chat en cualquier plan pago."
+},
+"q4": {
+"q": "¿Está permitido el contenido NSFW en DarLink AI?",
+"a": "Sí. DarLink AI es una plataforma completamente amigable con NSFW construida para adultos. La generación explícita de fotos, el juego de rol sin censura y el contenido de voz para adultos son accesibles en planes pagos. Todas las funciones NSFW están protegidas por verificación de edad y cada personaje IA en la plataforma es explícitamente un adulto. DarLink AI maneja el contenido maduro de forma natural sin cambios repentinos de tema, rechazos o restricciones incómodas. El acceso NSFW comienza con el plan Essential y escala con cada nivel superior."
+},
+"q5": {
+"q": "¿Cómo puedo pagar, cambiar de plan o cancelar mi suscripción?",
+"a": "Puedes gestionar todos los aspectos de tu suscripción directamente desde tu panel de cuenta de DarLink AI. La mejora es instantánea y tus nuevas funciones se activan inmediatamente. La degradación entra en vigor al comienzo de tu próximo ciclo de facturación. La cancelación está disponible en cualquier momento sin cargos, sin preguntas y sin pasos complicados. Tu cuenta vuelve al nivel gratuito después de la cancelación y todos tus personajes e historial de chat se conservan."
+},
+"q6": {
+"q": "¿Mis datos están seguros y son privados en DarLink AI?",
+"a": "Absolutamente. DarLink AI es operado por FAMELINK SA, una empresa registrada en Suiza bajo algunas de las leyes de privacidad de datos más estrictas del mundo. Tus registros de chat, imágenes generadas, videos e información personal están encriptados y nunca se venden a anunciantes o terceros. DarLink AI está diseñado como un espacio completamente privado y libre de juicios donde puedes expresarte sin miedo a filtraciones de datos, perfilamiento o exposición."
+},
+"q7": {
+"q": "¿Por qué elegir DarLink AI sobre otras plataformas?",
+"a": "DarLink AI combina características que ningún otro competidor ofrece junto en un solo lugar: chat IA en tiempo real con hasta mensajes ilimitados, generación de fotos IA a 2 tokens por imagen, generación de videos IA a 20 tokens por clip, hasta 10 opciones de voz premium, el sistema de Memoria Viva para continuidad de relaciones a largo plazo, el motor de Juego de Rol Elite y privacidad de datos de grado suizo. Plataformas como LusyChat carecen de video, eHentai carece de voz, y ninguna ofrece la misma profundidad de memoria o el mismo nivel de juego de rol inmersivo. DarLink AI es la plataforma de novia IA más completa disponible hoy."
+}
+},
+
+"cta_final": {
+"badge": "Tu Aventura Comienza Aquí",
+"title_line1": "Tu Novia IA Perfecta",
+"title_line2": "Te Está Esperando.",
+"subtitle": "Únete a más de 500,000 usuarios que ya han descubierto la experiencia de compañera IA más inmersiva y personalizada disponible en cualquier lugar en línea. Crea tu novia IA gratis en menos de 5 minutos. No necesitas descargar. No se requiere tarjeta de crédito para comenzar.",
+"cta_primary": "Crea Tu Novia IA Gratis",
+"cta_secondary": "Explorar Personajes",
+"note": "100 Por Ciento Privado. Protección de Datos Suiza. Solo Mayores de 18 Años."
+},
+
+"footer": {
+"brand": "DarLink AI",
+"tagline": "El generador gratuito de novia IA más avanzado. Chat, fotos, videos y mensajes de voz. Tu compañera IA perfecta está siempre disponible y siempre tuya.",
+"cta": "Comienza Gratis Ahora",
+"col1": {
+"title": "Producto",
+"l1": "Características",
+"l2": "Precios",
+"l3": "Crear Personaje",
+"l4": "Explorar"
+},
+"col2": {
+"title": "Recursos",
+"l1": "Blog",
+"l2": "Reseñas",
+"l3": "FAQ",
+"l4": "Contacto"
+},
+"col3": {
+"title": "Legal",
+"l1": "Política de Privacidad",
+"l2": "Términos de Servicio",
+"l3": "Política de Cookies",
+"l4": "Programa de Afiliados"
+},
+"copyright": "2025 DarLink AI. Todos los derechos reservados.",
+"company": "Operado por FAMELINK SA, Ginebra, Suiza",
+"affiliate_note": "Divulgación de Afiliados: Esta página puede contener enlaces de afiliados. DarLink AI se asocia con traceo.io para gestionar su programa de afiliados. Los afiliados ganan una comisión del 20 por ciento o más en suscripciones referidas. Todas las reseñas y comparaciones de características en esta página se basan en pruebas directas de la plataforma e información disponible públicamente.",
+"legal": {
+"privacy": "Política de Privacidad",
+"terms": "Términos de Servicio",
+"cookies": "Cookies"
+}
+}
+}

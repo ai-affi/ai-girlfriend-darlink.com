@@ -1,12 +1,11 @@
 {
   "meta": {
-    "title": "DarLink AI — Free AI Girlfriend Generator | Chat, Photos & Videos",
-    "description": "DarLink AI is the number one free AI girlfriend generator. Create your perfect AI companion, chat in real time, generate photos, videos and voice messages. Try DarLink AI free today, no download required.",
+    "title": "DarLink AI — Free AI Girlfriend | Chat, Photos & Videos",
+    "description": "Create your perfect AI girlfriend with DarLink AI. Chat, generate photos, videos & voice messages. Free to start, no download needed.",
     "keywords": "darlink ai, darlink.ai, AI girlfriend, free AI girlfriend generator, NSFW AI companion, AI girlfriend chat, AI girlfriend photos, AI girlfriend video, virtual girlfriend AI, AI companion app, personalized AI girlfriend, AI roleplay, NSFW AI chat",
     "og_title": "DarLink AI: Create Your Perfect AI Girlfriend Free",
     "og_description": "Meet DarLink AI. Chat, generate photos, videos and voice messages with your fully personalized AI girlfriend. Free to start. NSFW-friendly. Swiss privacy guaranteed."
   },
-
   "nav": {
     "logo": "DarLink AI",
     "features": "Features",
@@ -16,7 +15,6 @@
     "age_badge": "18+",
     "cta": "Create Free"
   },
-
   "hero": {
     "badge": "The Number One AI Girlfriend Platform",
     "title_line1": "Your Perfect AI Girlfriend,",
@@ -38,7 +36,6 @@
     "card_tag3": "NSFW Ready",
     "card_cta": "Chat with Sophia"
   },
-
   "features": {
     "badge": "Everything You Need",
     "title": "A Complete AI Girlfriend Experience",
@@ -76,7 +73,6 @@
       "desc": "DarLink AI is operated by FAMELINK SA, a registered Swiss company. Your conversations, generated media, and personal data are encrypted and never sold to third parties. Your private world stays private at all times. DarLink AI takes data protection as seriously as Switzerland takes financial security, making it the most trustworthy adult AI platform available."
     }
   },
-
   "how": {
     "badge": "Get Started in 3 Steps",
     "title": "Create Your AI Girlfriend in Minutes",
@@ -98,7 +94,6 @@
     },
     "cta": "Start for Free. No Credit Card Needed."
   },
-
   "showcase": {
     "badge": "Meet the Companions",
     "title": "Explore DarLink AI Characters",
@@ -136,7 +131,6 @@
       "cta": "Chat with Zara"
     }
   },
-
   "pricing": {
     "badge": "Simple, Transparent Pricing",
     "title": "Select Your Plan",
@@ -209,7 +203,6 @@
     },
     "note": "All prices in USD. Billed monthly. Annual plans available with up to 44 percent savings. 18 and over only. Managed securely by FAMELINK SA, Switzerland."
   },
-
   "comparison": {
     "badge": "How DarLink AI Compares",
     "title": "DarLink AI vs. The Competition",
@@ -223,11 +216,21 @@
       "mylovely": "MyLovely"
     },
     "partial": "Partial",
-    "r1": { "feature": "AI Girlfriend Chat" },
-    "r2": { "feature": "AI Photo Generation" },
-    "r3": { "feature": "AI Video Generation" },
-    "r4": { "feature": "Living Memory System" },
-    "r5": { "feature": "Voice Messages" },
+    "r1": {
+      "feature": "AI Girlfriend Chat"
+    },
+    "r2": {
+      "feature": "AI Photo Generation"
+    },
+    "r3": {
+      "feature": "AI Video Generation"
+    },
+    "r4": {
+      "feature": "Living Memory System"
+    },
+    "r5": {
+      "feature": "Voice Messages"
+    },
     "r6": {
       "feature": "Affiliate Commission Rate",
       "darlink": "20 percent plus",
@@ -236,10 +239,11 @@
       "justporn": "50 percent",
       "mylovely": "50 percent"
     },
-    "r7": { "feature": "Swiss Data Privacy" },
+    "r7": {
+      "feature": "Swiss Data Privacy"
+    },
     "cta": "Try the Best. Start Free on DarLink AI."
   },
-
   "testimonials": {
     "badge": "Real Talk from Real Users",
     "title": "What Our Users Say About DarLink AI",
@@ -273,7 +277,6 @@
       "role": "Verified User via Reddit"
     }
   },
-
   "faq": {
     "badge": "Frequently Asked Questions",
     "title": "Everything You Need to Know About DarLink AI",
@@ -307,7 +310,6 @@
       "a": "DarLink AI combines features that no single competitor offers together in one place: real-time AI chat with up to unlimited messages, AI photo generation at 2 tokens per image, AI video generation at 20 tokens per clip, up to 10 premium voice options, the Living Memory system for long-term relationship continuity, the Elite Roleplay Engine, and Swiss-grade data privacy. Platforms like LusyChat lack video, eHentai lacks voice, and none of them offer the same depth of memory or the same level of immersive roleplay. DarLink AI is the most complete AI girlfriend platform available today."
     }
   },
-
   "cta_final": {
     "badge": "Your Adventure Starts Here",
     "title_line1": "Your Perfect AI Girlfriend",
@@ -317,7 +319,6 @@
     "cta_secondary": "Explore Characters",
     "note": "100 Percent Private. Swiss Data Protection. 18 and Over Only."
   },
-
   "footer": {
     "brand": "DarLink AI",
     "tagline": "The most advanced free AI girlfriend generator. Chat, photos, videos, and voice messages. Your perfect AI companion is always available and always yours.",

@@ -550,96 +550,6 @@
     .section-header--center .section-subtitle { margin-left: auto; margin-right: auto; }
 
 
-    /* ─── LANGUAGE SELECTOR ───────────────────────────────────────── */
-    .language-selector {
-      position: relative;
-      display: inline-flex;
-      align-items: center;
-    }
-    .language-selector__toggle {
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      background: rgba(224,64,251,0.1);
-      border: 1px solid rgba(224,64,251,0.25);
-      color: var(--clr-text);
-      padding: 6px 12px;
-      border-radius: 8px;
-      cursor: pointer;
-      font-family: var(--font);
-      font-size: 0.85rem;
-      font-weight: 600;
-      transition: all 0.25s ease;
-    }
-    .language-selector__toggle:hover {
-      background: rgba(224,64,251,0.2);
-      border-color: rgba(224,64,251,0.4);
-    }
-    .language-selector__toggle[aria-expanded="true"] .language-selector__arrow {
-      transform: rotate(180deg);
-    }
-    .language-selector__flag {
-      font-size: 1.1rem;
-      line-height: 1;
-    }
-    .language-selector__code {
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-    }
-    .language-selector__arrow {
-      transition: transform 0.25s ease;
-      color: var(--clr-text-muted);
-    }
-    .language-selector__dropdown {
-      position: absolute;
-      top: calc(100% + 8px);
-      right: 0;
-      background: var(--clr-surface);
-      border: 1px solid var(--clr-border);
-      border-radius: 12px;
-      padding: 8px;
-      min-width: 160px;
-      list-style: none;
-      opacity: 0;
-      visibility: hidden;
-      transform: translateY(-8px);
-      transition: all 0.25s ease;
-      box-shadow: 0 8px 32px rgba(0,0,0,0.4);
-      z-index: 1001;
-    }
-    .language-selector__dropdown.active {
-      opacity: 1;
-      visibility: visible;
-      transform: translateY(0);
-    }
-    .language-selector__option {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      padding: 8px 12px;
-      border-radius: 8px;
-      color: var(--clr-text);
-      text-decoration: none;
-      font-size: 0.88rem;
-      font-weight: 500;
-      transition: all 0.2s ease;
-    }
-    .language-selector__option:hover {
-      background: rgba(224,64,251,0.1);
-      color: var(--clr-primary);
-    }
-    .language-selector__option.active {
-      background: rgba(224,64,251,0.15);
-      color: var(--clr-primary);
-    }
-    .language-selector__option-flag {
-      font-size: 1.2rem;
-      line-height: 1;
-    }
-    .language-selector__option-name {
-      white-space: nowrap;
-    }
-
     /* ─── RESPONSIVE ─────────────────────────────────────────────── */
     @media (max-width: 1024px) {
       .hero__inner { grid-template-columns: 1fr; text-align: center; }
@@ -659,11 +569,58 @@
       .navbar { padding: 0 16px; height: auto; min-height: 68px; flex-wrap: wrap; gap: 8px; }
       .navbar__cta { flex-wrap: wrap; gap: 8px; justify-content: flex-end; }
       .navbar__age-badge { font-size: 0.65rem; padding: 2px 6px; }
-      .language-selector__toggle { padding: 4px 8px; font-size: 0.75rem; }
       .btn--sm { padding: 8px 16px; font-size: 0.8rem; }
       .btn--lg { padding: 14px 28px; font-size: 0.95rem; white-space: normal; text-align: center; line-height: 1.4; }
       .how__cta-wrap { padding: 0 16px; }
       .comparison__cta { padding: 0 16px; }
+    }
+  
+    .footer__languages {
+      margin-top: 32px;
+      padding-top: 24px;
+      border-top: 1px solid var(--clr-border);
+    }
+    .footer__languages-title {
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--clr-text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      margin-bottom: 12px;
+    }
+    .footer__lang-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .footer__lang-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 12px;
+      border-radius: 8px;
+      background: rgba(224,64,251,0.08);
+      border: 1px solid rgba(224,64,251,0.15);
+      color: var(--clr-text);
+      text-decoration: none;
+      font-size: 0.85rem;
+      font-weight: 500;
+      transition: all 0.2s ease;
+    }
+    .footer__lang-link:hover {
+      background: rgba(224,64,251,0.15);
+      border-color: rgba(224,64,251,0.3);
+      color: var(--clr-primary);
+    }
+    .footer__lang-link.active {
+      background: rgba(224,64,251,0.2);
+      border-color: rgba(224,64,251,0.4);
+      color: var(--clr-primary);
+      font-weight: 600;
+    }
+    @media (max-width: 768px) {
+      .footer__lang-list { gap: 6px; }
+      .footer__lang-link { padding: 5px 10px; font-size: 0.8rem; }
     }
   </style>
 </head>
@@ -682,28 +639,6 @@
       <li><a href="#pricing">Preços</a></li>
       <li><a href="#faq">FAQ</a></li>
     </ul>
-    <div class="language-selector">
-      <button class="language-selector__toggle" aria-expanded="false" aria-haspopup="true">
-        <span class="language-selector__flag">🇵🇹</span>
-        <span class="language-selector__code">PT</span>
-        <svg class="language-selector__arrow" width="12" height="12" viewBox="0 0 12 12" fill="none">
-          <path d="M2.5 4.5L6 8L9.5 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-        </svg>
-      </button>
-      <ul class="language-selector__dropdown" role="menu">
-        <li role="none"><a href="/" class="language-selector__option" role="menuitem" data-lang="en"><span class="language-selector__option-flag">🇬🇧</span><span class="language-selector__option-name">English</span></a></li>
-        <li role="none"><a href="/fr/" class="language-selector__option" role="menuitem" data-lang="fr"><span class="language-selector__option-flag">🇫🇷</span><span class="language-selector__option-name">Français</span></a></li>
-        <li role="none"><a href="/de/" class="language-selector__option" role="menuitem" data-lang="de"><span class="language-selector__option-flag">🇩🇪</span><span class="language-selector__option-name">Deutsch</span></a></li>
-        <li role="none"><a href="/it/" class="language-selector__option" role="menuitem" data-lang="it"><span class="language-selector__option-flag">🇮🇹</span><span class="language-selector__option-name">Italiano</span></a></li>
-        <li role="none"><a href="/nl/" class="language-selector__option" role="menuitem" data-lang="nl"><span class="language-selector__option-flag">🇳🇱</span><span class="language-selector__option-name">Nederlands</span></a></li>
-        <li role="none"><a href="/pl/" class="language-selector__option" role="menuitem" data-lang="pl"><span class="language-selector__option-flag">🇵🇱</span><span class="language-selector__option-name">Polski</span></a></li>
-        <li role="none"><a href="/se/" class="language-selector__option" role="menuitem" data-lang="se"><span class="language-selector__option-flag">🇸🇪</span><span class="language-selector__option-name">Svenska</span></a></li>
-        <li role="none"><a href="/jp/" class="language-selector__option" role="menuitem" data-lang="jp"><span class="language-selector__option-flag">🇯🇵</span><span class="language-selector__option-name">日本語</span></a></li>
-        <li role="none"><a href="/ko/" class="language-selector__option" role="menuitem" data-lang="ko"><span class="language-selector__option-flag">🇰🇷</span><span class="language-selector__option-name">한국어</span></a></li>
-        <li role="none"><a href="/cn/" class="language-selector__option" role="menuitem" data-lang="cn"><span class="language-selector__option-flag">🇨🇳</span><span class="language-selector__option-name">中文</span></a></li>
-        <li role="none"><a href="/es/" class="language-selector__option" role="menuitem" data-lang="es"><span class="language-selector__option-flag">🇪🇸</span><span class="language-selector__option-name">Español</span></a></li>
-      </ul>
-    </div>
     <div class="navbar__cta">
       <span class="navbar__age-badge">18+</span>
       <a href="/go/darlink" rel="nofollow sponsored" class="btn btn--primary btn--sm">Criar Grátis</a>
@@ -1310,7 +1245,25 @@
       </div>
       <p class="footer__affiliate-note">Divulgação de Afiliado: Esta página pode conter links de afiliados. DarLink AI faz parceria com traceo.io para gerenciar seu programa de afiliados. Afiliados ganham uma comissão de 20 por cento ou mais em assinaturas referidas. Todas as avaliações e comparações de funcionalidades nesta página são baseadas em testes diretos da plataforma e informações disponíveis publicamente.</p>
     </div>
-  </footer>
+  
+      <div class="footer__languages">
+        <div class="footer__languages-title">Languages</div>
+        <div class="footer__lang-list">
+          <a href="/" class="footer__lang-link">🇬🇧 English</a>
+          <a href="/fr/" class="footer__lang-link">🇫🇷 Français</a>
+          <a href="/de/" class="footer__lang-link">🇩🇪 Deutsch</a>
+          <a href="/it/" class="footer__lang-link">🇮🇹 Italiano</a>
+          <a href="/nl/" class="footer__lang-link">🇳🇱 Nederlands</a>
+          <a href="/pt/" class="footer__lang-link active">🇵🇹 Português</a>
+          <a href="/pl/" class="footer__lang-link">🇵🇱 Polski</a>
+          <a href="/se/" class="footer__lang-link">🇸🇪 Svenska</a>
+          <a href="/jp/" class="footer__lang-link">🇯🇵 日本語</a>
+          <a href="/ko/" class="footer__lang-link">🇰🇷 한국어</a>
+          <a href="/cn/" class="footer__lang-link">🇨🇳 中文</a>
+          <a href="/es/" class="footer__lang-link">🇪🇸 Español</a>
+        </div>
+      </div>
+    </footer>
 
   <!-- ═══════════════════════════════════════════════════════════════
        JAVASCRIPT — i18n LOADER + FAQ ACCORDION
